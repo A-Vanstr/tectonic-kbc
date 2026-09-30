@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kate Ahead frontend response v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "demoDate", "items", "alerts", "recurringCommitments"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "demoDate": {"type": "string", "format": "date"},
+    "items": {"type": "array", "items": {"$ref": "#/$defs/subscription"}},
+    "alerts": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["type", "subscriptionId", "message", "actions"],
+      "properties": {"type": {"const": "trial_ending"}, "subscriptionId": {"type": "string"}, "message": {"type": "string"}, "actions": {"$ref": "#/$defs/actions"}}
+    }},
+    "recurringCommitments": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["subscriptionId", "amount", "cadence", "from"],
+      "properties": {"subscriptionId": {"type": "string"}, "amount": {"type": "number", "minimum": 0}, "cadence": {"enum": ["monthly", "annual"]}, "from": {"type": "string", "format": "date"}}
+    }}
+  },
+  "$defs": {
+    "actions": {"type": "array", "items": {"type": "object", "additionalProperties": false, "required": ["id", "label"], "properties": {"id": {"enum": ["keep", "request_cancellation", "confirm_trial", "dismiss"]}, "label": {"type": "string"}}}},
+    "subscription": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "service", "kind", "amount", "currency", "cadence", "chargeDate", "decideBy", "deadlineSource", "status", "confidence", "evidenceIds", "explanation", "actions"],
+      "properties": {
+        "id": {"type": "string"}, "service": {"type": "string"},
+        "kind": {"enum": ["subscription", "renewal", "trial"]},
+        "amount": {"type": "number", "minimum": 0}, "currency": {"const": "EUR"},
+        "cadence": {"enum": ["monthly", "annual"]},
+        "chargeDate": {"type": "string", "format": "date"}, "decideBy": {"type": "string", "format": "date"},
+        "deadlineSource": {"enum": ["confirmed_notice", "suggested_review", "confirmed_trial", "unconfirmed_trial"]},
+        "status": {"enum": ["review", "needs_confirmation", "kept", "cancellation_requested", "dismissed"]},
+        "confidence": {"enum": ["likely", "possible", "confirmed"]},
+        "evidenceIds": {"type": "array", "items": {"type": "integer"}},
+        "explanation": {"type": "string"}, "actions": {"$ref": "#/$defs/actions"}
+      }
+    }
+  }
+}

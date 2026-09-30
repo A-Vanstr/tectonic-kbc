@@ -1,0 +1,5754 @@
+[
+  {
+    "id": "tx_00001",
+    "date": "2025-10-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00002",
+    "date": "2025-10-02",
+    "amount": -3.44,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00003",
+    "date": "2025-10-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00004",
+    "date": "2025-10-03",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00005",
+    "date": "2025-10-03",
+    "amount": -4.37,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00006",
+    "date": "2025-10-03",
+    "amount": -71.47,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00007",
+    "date": "2025-10-04",
+    "amount": -5.23,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00008",
+    "date": "2025-10-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00009",
+    "date": "2025-10-05",
+    "amount": -11.8,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00010",
+    "date": "2025-10-06",
+    "amount": -28.64,
+    "merchant": "Action",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00011",
+    "date": "2025-10-07",
+    "amount": -13.49,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00012",
+    "date": "2025-10-07",
+    "amount": -87.39,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00013",
+    "date": "2025-10-08",
+    "amount": -68.51,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00014",
+    "date": "2025-10-10",
+    "amount": -186.4,
+    "merchant": "KBC Autoverzekering",
+    "category": "insurance",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00015",
+    "date": "2025-10-10",
+    "amount": -24.46,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00016",
+    "date": "2025-10-10",
+    "amount": -3.75,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00017",
+    "date": "2025-10-11",
+    "amount": -90.13,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00018",
+    "date": "2025-10-11",
+    "amount": -6.35,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00019",
+    "date": "2025-10-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00020",
+    "date": "2025-10-12",
+    "amount": -6.14,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00021",
+    "date": "2025-10-13",
+    "amount": -18.29,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00022",
+    "date": "2025-10-14",
+    "amount": -20.03,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00023",
+    "date": "2025-10-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00024",
+    "date": "2025-10-17",
+    "amount": -66.13,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00025",
+    "date": "2025-10-18",
+    "amount": -8.99,
+    "merchant": "Disney+",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00026",
+    "date": "2025-10-18",
+    "amount": -65.85,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00027",
+    "date": "2025-10-18",
+    "amount": -11.89,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00028",
+    "date": "2025-10-19",
+    "amount": -9.99,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00029",
+    "date": "2025-10-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00030",
+    "date": "2025-10-21",
+    "amount": -70.54,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00031",
+    "date": "2025-10-22",
+    "amount": -3.78,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00032",
+    "date": "2025-10-23",
+    "amount": -23.15,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00033",
+    "date": "2025-10-24",
+    "amount": -5.63,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00034",
+    "date": "2025-10-24",
+    "amount": -51.63,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00035",
+    "date": "2025-10-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00036",
+    "date": "2025-10-25",
+    "amount": -62.14,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00037",
+    "date": "2025-10-25",
+    "amount": -77.21,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00038",
+    "date": "2025-10-25",
+    "amount": -65.16,
+    "merchant": "Bol.com",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00039",
+    "date": "2025-10-26",
+    "amount": -7.66,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00040",
+    "date": "2025-10-29",
+    "amount": -26.37,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00041",
+    "date": "2025-10-31",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00042",
+    "date": "2025-10-31",
+    "amount": -30.86,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00043",
+    "date": "2025-11-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00044",
+    "date": "2025-11-01",
+    "amount": -66.95,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00045",
+    "date": "2025-11-01",
+    "amount": -5.01,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00046",
+    "date": "2025-11-02",
+    "amount": -4.8,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00047",
+    "date": "2025-11-02",
+    "amount": -69.09,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00048",
+    "date": "2025-11-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00049",
+    "date": "2025-11-04",
+    "amount": -80.86,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00050",
+    "date": "2025-11-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00051",
+    "date": "2025-11-06",
+    "amount": -71.65,
+    "merchant": "Action",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00052",
+    "date": "2025-11-07",
+    "amount": -13.49,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00053",
+    "date": "2025-11-07",
+    "amount": -72.49,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00054",
+    "date": "2025-11-08",
+    "amount": -49.61,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00055",
+    "date": "2025-11-08",
+    "amount": -8.16,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00056",
+    "date": "2025-11-09",
+    "amount": -4.53,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00057",
+    "date": "2025-11-10",
+    "amount": -10.87,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00058",
+    "date": "2025-11-11",
+    "amount": -85.57,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00059",
+    "date": "2025-11-11",
+    "amount": -3.53,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00060",
+    "date": "2025-11-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00061",
+    "date": "2025-11-12",
+    "amount": -3.85,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00062",
+    "date": "2025-11-14",
+    "amount": -37.1,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00063",
+    "date": "2025-11-14",
+    "amount": -5.62,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00064",
+    "date": "2025-11-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00065",
+    "date": "2025-11-15",
+    "amount": -44.16,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00066",
+    "date": "2025-11-15",
+    "amount": -68.83,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00067",
+    "date": "2025-11-15",
+    "amount": -61.09,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00068",
+    "date": "2025-11-16",
+    "amount": -20.79,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00069",
+    "date": "2025-11-16",
+    "amount": -10.98,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00070",
+    "date": "2025-11-18",
+    "amount": -8.99,
+    "merchant": "Disney+",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00071",
+    "date": "2025-11-18",
+    "amount": -92.86,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00072",
+    "date": "2025-11-18",
+    "amount": -4.33,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00073",
+    "date": "2025-11-19",
+    "amount": -79.57,
+    "merchant": "Kruidvat",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00074",
+    "date": "2025-11-20",
+    "amount": -71.8,
+    "merchant": "De Watergroep",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00075",
+    "date": "2025-11-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00076",
+    "date": "2025-11-20",
+    "amount": -4.32,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00077",
+    "date": "2025-11-21",
+    "amount": -61.34,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00078",
+    "date": "2025-11-22",
+    "amount": -91.6,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00079",
+    "date": "2025-11-23",
+    "amount": -23.61,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00080",
+    "date": "2025-11-23",
+    "amount": -8.85,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00081",
+    "date": "2025-11-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00082",
+    "date": "2025-11-25",
+    "amount": -74.08,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00083",
+    "date": "2025-11-26",
+    "amount": -22.35,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00084",
+    "date": "2025-11-27",
+    "amount": -24.71,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00085",
+    "date": "2025-11-27",
+    "amount": -4.91,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00086",
+    "date": "2025-11-27",
+    "amount": -65.55,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00087",
+    "date": "2025-11-28",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00088",
+    "date": "2025-11-28",
+    "amount": -73.87,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00089",
+    "date": "2025-11-29",
+    "amount": -58.63,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00090",
+    "date": "2025-11-30",
+    "amount": -5.69,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00091",
+    "date": "2025-11-30",
+    "amount": -63.7,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00092",
+    "date": "2025-12-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00093",
+    "date": "2025-12-01",
+    "amount": -77.96,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00094",
+    "date": "2025-12-02",
+    "amount": -46.6,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00095",
+    "date": "2025-12-02",
+    "amount": -3.76,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00096",
+    "date": "2025-12-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00097",
+    "date": "2025-12-03",
+    "amount": -22.31,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00098",
+    "date": "2025-12-04",
+    "amount": -17.36,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00099",
+    "date": "2025-12-04",
+    "amount": -70.94,
+    "merchant": "Dreamland",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00100",
+    "date": "2025-12-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00101",
+    "date": "2025-12-05",
+    "amount": -25.08,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00102",
+    "date": "2025-12-05",
+    "amount": -36.25,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00103",
+    "date": "2025-12-06",
+    "amount": -75.79,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00104",
+    "date": "2025-12-06",
+    "amount": -11.0,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00105",
+    "date": "2025-12-06",
+    "amount": -41.01,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00106",
+    "date": "2025-12-07",
+    "amount": -13.49,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00107",
+    "date": "2025-12-07",
+    "amount": -110.91,
+    "merchant": "Fnac",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00108",
+    "date": "2025-12-08",
+    "amount": -5.69,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00109",
+    "date": "2025-12-08",
+    "amount": -29.55,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00110",
+    "date": "2025-12-08",
+    "amount": -23.12,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00111",
+    "date": "2025-12-08",
+    "amount": -172.16,
+    "merchant": "Dreamland",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00112",
+    "date": "2025-12-09",
+    "amount": -81.71,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00113",
+    "date": "2025-12-09",
+    "amount": -33.85,
+    "merchant": "Fnac",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00114",
+    "date": "2025-12-11",
+    "amount": -24.73,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00115",
+    "date": "2025-12-11",
+    "amount": -129.23,
+    "merchant": "Bol.com",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00116",
+    "date": "2025-12-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00117",
+    "date": "2025-12-12",
+    "amount": -5.41,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00118",
+    "date": "2025-12-13",
+    "amount": -62.82,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00119",
+    "date": "2025-12-13",
+    "amount": -68.41,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00120",
+    "date": "2025-12-14",
+    "amount": -6.34,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00121",
+    "date": "2025-12-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00122",
+    "date": "2025-12-15",
+    "amount": -64.85,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00123",
+    "date": "2025-12-15",
+    "amount": -162.05,
+    "merchant": "Fnac",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00124",
+    "date": "2025-12-16",
+    "amount": -67.45,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00125",
+    "date": "2025-12-16",
+    "amount": -4.26,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00126",
+    "date": "2025-12-16",
+    "amount": -32.59,
+    "merchant": "Fnac",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00127",
+    "date": "2025-12-17",
+    "amount": -141.89,
+    "merchant": "Fnac",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00128",
+    "date": "2025-12-18",
+    "amount": -8.99,
+    "merchant": "Disney+",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00129",
+    "date": "2025-12-18",
+    "amount": -18.89,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00130",
+    "date": "2025-12-18",
+    "amount": -5.08,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00131",
+    "date": "2025-12-18",
+    "amount": -140.79,
+    "merchant": "Fnac",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00132",
+    "date": "2025-12-19",
+    "amount": -42.15,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00133",
+    "date": "2025-12-19",
+    "amount": -136.2,
+    "merchant": "MediaMarkt Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00134",
+    "date": "2025-12-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00135",
+    "date": "2025-12-20",
+    "amount": -93.53,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00136",
+    "date": "2025-12-20",
+    "amount": -5.45,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00137",
+    "date": "2025-12-21",
+    "amount": -5.88,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00138",
+    "date": "2025-12-22",
+    "amount": -4.84,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00139",
+    "date": "2025-12-23",
+    "amount": -81.57,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00140",
+    "date": "2025-12-23",
+    "amount": -186.4,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00141",
+    "date": "2025-12-24",
+    "amount": -4.81,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00142",
+    "date": "2025-12-24",
+    "amount": -129.06,
+    "merchant": "MediaMarkt Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00143",
+    "date": "2025-12-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00144",
+    "date": "2025-12-25",
+    "amount": -21.25,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00145",
+    "date": "2025-12-25",
+    "amount": -4.99,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00146",
+    "date": "2025-12-25",
+    "amount": -13.89,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00147",
+    "date": "2025-12-26",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00148",
+    "date": "2025-12-26",
+    "amount": -3.89,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00149",
+    "date": "2025-12-26",
+    "amount": -57.49,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00150",
+    "date": "2025-12-26",
+    "amount": -63.05,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00151",
+    "date": "2025-12-27",
+    "amount": -41.4,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00152",
+    "date": "2025-12-27",
+    "amount": -10.68,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00153",
+    "date": "2025-12-27",
+    "amount": -49.96,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00154",
+    "date": "2025-12-28",
+    "amount": -8.2,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00155",
+    "date": "2025-12-28",
+    "amount": -29.99,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00156",
+    "date": "2025-12-29",
+    "amount": -21.87,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00157",
+    "date": "2025-12-29",
+    "amount": -67.83,
+    "merchant": "Action",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00158",
+    "date": "2025-12-30",
+    "amount": -47.99,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00159",
+    "date": "2025-12-30",
+    "amount": -3.92,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00160",
+    "date": "2025-12-31",
+    "amount": -4.03,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00161",
+    "date": "2025-12-31",
+    "amount": -36.04,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00162",
+    "date": "2025-12-31",
+    "amount": -142.0,
+    "merchant": "Traiteur Dewilde",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00163",
+    "date": "2026-01-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00164",
+    "date": "2026-01-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00165",
+    "date": "2026-01-03",
+    "amount": -81.12,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00166",
+    "date": "2026-01-03",
+    "amount": -55.46,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00167",
+    "date": "2026-01-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00168",
+    "date": "2026-01-06",
+    "amount": -85.43,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00169",
+    "date": "2026-01-07",
+    "amount": -13.49,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00170",
+    "date": "2026-01-08",
+    "amount": -76.29,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00171",
+    "date": "2026-01-08",
+    "amount": -65.0,
+    "merchant": "Kruidvat",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00172",
+    "date": "2026-01-09",
+    "amount": -52.22,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00173",
+    "date": "2026-01-10",
+    "amount": -186.4,
+    "merchant": "KBC Autoverzekering",
+    "category": "insurance",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00174",
+    "date": "2026-01-10",
+    "amount": -48.75,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00175",
+    "date": "2026-01-10",
+    "amount": -6.25,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00176",
+    "date": "2026-01-10",
+    "amount": -66.36,
+    "merchant": "HEMA",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00177",
+    "date": "2026-01-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00178",
+    "date": "2026-01-13",
+    "amount": -79.18,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00179",
+    "date": "2026-01-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00180",
+    "date": "2026-01-15",
+    "amount": -25.25,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00181",
+    "date": "2026-01-15",
+    "amount": -31.42,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00182",
+    "date": "2026-01-17",
+    "amount": -39.65,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00183",
+    "date": "2026-01-17",
+    "amount": -7.19,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00184",
+    "date": "2026-01-17",
+    "amount": -40.21,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00185",
+    "date": "2026-01-18",
+    "amount": -8.99,
+    "merchant": "Disney+",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00186",
+    "date": "2026-01-18",
+    "amount": -11.03,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00187",
+    "date": "2026-01-19",
+    "amount": -70.74,
+    "merchant": "Action",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00188",
+    "date": "2026-01-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00189",
+    "date": "2026-01-20",
+    "amount": -63.18,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00190",
+    "date": "2026-01-21",
+    "amount": -4.46,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00191",
+    "date": "2026-01-21",
+    "amount": -66.87,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00192",
+    "date": "2026-01-22",
+    "amount": -5.45,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00193",
+    "date": "2026-01-23",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00194",
+    "date": "2026-01-24",
+    "amount": -52.29,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00195",
+    "date": "2026-01-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00196",
+    "date": "2026-01-25",
+    "amount": -10.41,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00197",
+    "date": "2026-01-25",
+    "amount": -46.24,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00198",
+    "date": "2026-01-25",
+    "amount": -33.54,
+    "merchant": "HEMA",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00199",
+    "date": "2026-01-27",
+    "amount": -85.01,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00200",
+    "date": "2026-01-29",
+    "amount": -54.83,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00201",
+    "date": "2026-01-30",
+    "amount": -61.74,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00202",
+    "date": "2026-01-30",
+    "amount": -22.36,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00203",
+    "date": "2026-01-31",
+    "amount": -41.6,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00204",
+    "date": "2026-01-31",
+    "amount": -48.41,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00205",
+    "date": "2026-01-31",
+    "amount": -14.72,
+    "merchant": "HEMA",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00206",
+    "date": "2026-02-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00207",
+    "date": "2026-02-01",
+    "amount": -7.41,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00208",
+    "date": "2026-02-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00209",
+    "date": "2026-02-03",
+    "amount": -91.53,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00210",
+    "date": "2026-02-03",
+    "amount": -63.56,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00211",
+    "date": "2026-02-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00212",
+    "date": "2026-02-05",
+    "amount": -69.44,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00213",
+    "date": "2026-02-06",
+    "amount": -5.36,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00214",
+    "date": "2026-02-06",
+    "amount": -57.32,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00215",
+    "date": "2026-02-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00216",
+    "date": "2026-02-07",
+    "amount": -86.93,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00217",
+    "date": "2026-02-07",
+    "amount": -6.38,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00218",
+    "date": "2026-02-07",
+    "amount": -61.05,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00219",
+    "date": "2026-02-08",
+    "amount": -4.62,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00220",
+    "date": "2026-02-09",
+    "amount": -4.37,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00221",
+    "date": "2026-02-10",
+    "amount": -79.45,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00222",
+    "date": "2026-02-10",
+    "amount": -84.9,
+    "merchant": "HEMA",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00223",
+    "date": "2026-02-10",
+    "amount": -418.6,
+    "merchant": "Garage Peeters",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00224",
+    "date": "2026-02-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00225",
+    "date": "2026-02-12",
+    "amount": -22.98,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00226",
+    "date": "2026-02-13",
+    "amount": -60.74,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00227",
+    "date": "2026-02-13",
+    "amount": -70.74,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00228",
+    "date": "2026-02-14",
+    "amount": -60.73,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00229",
+    "date": "2026-02-14",
+    "amount": -6.84,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00230",
+    "date": "2026-02-14",
+    "amount": -75.68,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00231",
+    "date": "2026-02-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00232",
+    "date": "2026-02-15",
+    "amount": -5.22,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00233",
+    "date": "2026-02-17",
+    "amount": -87.48,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00234",
+    "date": "2026-02-18",
+    "amount": -8.99,
+    "merchant": "Disney+",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00235",
+    "date": "2026-02-18",
+    "amount": -3.48,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00236",
+    "date": "2026-02-20",
+    "amount": -71.8,
+    "merchant": "De Watergroep",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00237",
+    "date": "2026-02-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00238",
+    "date": "2026-02-20",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00239",
+    "date": "2026-02-20",
+    "amount": -37.02,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00240",
+    "date": "2026-02-21",
+    "amount": -46.17,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00241",
+    "date": "2026-02-21",
+    "amount": -10.06,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00242",
+    "date": "2026-02-22",
+    "amount": -5.68,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00243",
+    "date": "2026-02-23",
+    "amount": -71.62,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00244",
+    "date": "2026-02-24",
+    "amount": -63.2,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00245",
+    "date": "2026-02-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00246",
+    "date": "2026-02-25",
+    "amount": -47.76,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00247",
+    "date": "2026-02-26",
+    "amount": -3.51,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00248",
+    "date": "2026-02-27",
+    "amount": -45.71,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00249",
+    "date": "2026-02-27",
+    "amount": -13.37,
+    "merchant": "Bol.com",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00250",
+    "date": "2026-02-28",
+    "amount": -70.68,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00251",
+    "date": "2026-02-28",
+    "amount": -5.36,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00252",
+    "date": "2026-02-28",
+    "amount": -44.24,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00253",
+    "date": "2026-03-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00254",
+    "date": "2026-03-01",
+    "amount": -5.29,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00255",
+    "date": "2026-03-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00256",
+    "date": "2026-03-03",
+    "amount": -49.05,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00257",
+    "date": "2026-03-03",
+    "amount": -5.69,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00258",
+    "date": "2026-03-04",
+    "amount": -5.17,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00259",
+    "date": "2026-03-04",
+    "amount": -76.73,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00260",
+    "date": "2026-03-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00261",
+    "date": "2026-03-05",
+    "amount": -30.18,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00262",
+    "date": "2026-03-06",
+    "amount": -3.99,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00263",
+    "date": "2026-03-06",
+    "amount": -30.81,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00264",
+    "date": "2026-03-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00265",
+    "date": "2026-03-07",
+    "amount": -54.36,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00266",
+    "date": "2026-03-07",
+    "amount": -57.7,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00267",
+    "date": "2026-03-10",
+    "amount": -78.72,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00268",
+    "date": "2026-03-10",
+    "amount": -3.84,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00269",
+    "date": "2026-03-11",
+    "amount": -4.26,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00270",
+    "date": "2026-03-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00271",
+    "date": "2026-03-12",
+    "amount": -10.27,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00272",
+    "date": "2026-03-12",
+    "amount": -5.08,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00273",
+    "date": "2026-03-13",
+    "amount": -4.11,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00274",
+    "date": "2026-03-14",
+    "amount": -10.44,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00275",
+    "date": "2026-03-14",
+    "amount": -899.0,
+    "merchant": "MediaMarkt Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00276",
+    "date": "2026-03-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00277",
+    "date": "2026-03-15",
+    "amount": -8.45,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00278",
+    "date": "2026-03-16",
+    "amount": -3.76,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00279",
+    "date": "2026-03-17",
+    "amount": -86.13,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00280",
+    "date": "2026-03-17",
+    "amount": -36.58,
+    "merchant": "Kruidvat",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00281",
+    "date": "2026-03-18",
+    "amount": -8.99,
+    "merchant": "Disney+",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00282",
+    "date": "2026-03-18",
+    "amount": -5.36,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00283",
+    "date": "2026-03-18",
+    "amount": -73.04,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00284",
+    "date": "2026-03-18",
+    "amount": -38.59,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00285",
+    "date": "2026-03-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00286",
+    "date": "2026-03-20",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00287",
+    "date": "2026-03-20",
+    "amount": -4.96,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00288",
+    "date": "2026-03-20",
+    "amount": -50.03,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00289",
+    "date": "2026-03-21",
+    "amount": -49.38,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00290",
+    "date": "2026-03-21",
+    "amount": -52.03,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00291",
+    "date": "2026-03-23",
+    "amount": -4.34,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00292",
+    "date": "2026-03-24",
+    "amount": -41.04,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00293",
+    "date": "2026-03-24",
+    "amount": -5.79,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00294",
+    "date": "2026-03-24",
+    "amount": -23.02,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00295",
+    "date": "2026-03-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00296",
+    "date": "2026-03-25",
+    "amount": -3.95,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00297",
+    "date": "2026-03-26",
+    "amount": -8.13,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00298",
+    "date": "2026-03-26",
+    "amount": -5.37,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00299",
+    "date": "2026-03-27",
+    "amount": -3.32,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00300",
+    "date": "2026-03-27",
+    "amount": -67.69,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00301",
+    "date": "2026-03-28",
+    "amount": -74.02,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00302",
+    "date": "2026-03-28",
+    "amount": -28.08,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00303",
+    "date": "2026-03-28",
+    "amount": -58.25,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00304",
+    "date": "2026-03-29",
+    "amount": -11.65,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00305",
+    "date": "2026-03-30",
+    "amount": -41.2,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00306",
+    "date": "2026-03-30",
+    "amount": -4.21,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00307",
+    "date": "2026-03-31",
+    "amount": -75.45,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00308",
+    "date": "2026-04-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00309",
+    "date": "2026-04-02",
+    "amount": -25.19,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00310",
+    "date": "2026-04-02",
+    "amount": -3.72,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00311",
+    "date": "2026-04-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00312",
+    "date": "2026-04-03",
+    "amount": -29.83,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00313",
+    "date": "2026-04-04",
+    "amount": -56.92,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00314",
+    "date": "2026-04-04",
+    "amount": -11.17,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00315",
+    "date": "2026-04-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00316",
+    "date": "2026-04-05",
+    "amount": -8.23,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00317",
+    "date": "2026-04-06",
+    "amount": -4.77,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00318",
+    "date": "2026-04-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00319",
+    "date": "2026-04-07",
+    "amount": -55.47,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00320",
+    "date": "2026-04-07",
+    "amount": -4.99,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00321",
+    "date": "2026-04-08",
+    "amount": -5.75,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00322",
+    "date": "2026-04-09",
+    "amount": -67.8,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00323",
+    "date": "2026-04-10",
+    "amount": -186.4,
+    "merchant": "KBC Autoverzekering",
+    "category": "insurance",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00324",
+    "date": "2026-04-10",
+    "amount": -5.67,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00325",
+    "date": "2026-04-10",
+    "amount": -35.67,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00326",
+    "date": "2026-04-11",
+    "amount": -68.18,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00327",
+    "date": "2026-04-11",
+    "amount": -6.37,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00328",
+    "date": "2026-04-11",
+    "amount": -64.78,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00329",
+    "date": "2026-04-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00330",
+    "date": "2026-04-14",
+    "amount": -94.84,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00331",
+    "date": "2026-04-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00332",
+    "date": "2026-04-15",
+    "amount": -3.61,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00333",
+    "date": "2026-04-16",
+    "amount": -31.64,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00334",
+    "date": "2026-04-16",
+    "amount": -4.48,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00335",
+    "date": "2026-04-17",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00336",
+    "date": "2026-04-17",
+    "amount": -47.91,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00337",
+    "date": "2026-04-18",
+    "amount": -42.2,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00338",
+    "date": "2026-04-18",
+    "amount": -7.87,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00339",
+    "date": "2026-04-19",
+    "amount": -5.86,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00340",
+    "date": "2026-04-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00341",
+    "date": "2026-04-20",
+    "amount": -18.72,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00342",
+    "date": "2026-04-20",
+    "amount": -3.63,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00343",
+    "date": "2026-04-21",
+    "amount": -86.22,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00344",
+    "date": "2026-04-22",
+    "amount": -5.65,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00345",
+    "date": "2026-04-23",
+    "amount": -30.27,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00346",
+    "date": "2026-04-24",
+    "amount": -72.45,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00347",
+    "date": "2026-04-24",
+    "amount": -59.53,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00348",
+    "date": "2026-04-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00349",
+    "date": "2026-04-25",
+    "amount": -42.16,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00350",
+    "date": "2026-04-25",
+    "amount": -28.19,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00351",
+    "date": "2026-04-25",
+    "amount": -6.03,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00352",
+    "date": "2026-04-25",
+    "amount": -43.63,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00353",
+    "date": "2026-04-26",
+    "amount": -10.2,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00354",
+    "date": "2026-04-26",
+    "amount": -29.65,
+    "merchant": "Bol.com",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00355",
+    "date": "2026-04-27",
+    "amount": -3.95,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00356",
+    "date": "2026-04-28",
+    "amount": -56.66,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00357",
+    "date": "2026-04-28",
+    "amount": -5.18,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00358",
+    "date": "2026-04-29",
+    "amount": -43.36,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00359",
+    "date": "2026-04-30",
+    "amount": -29.18,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00360",
+    "date": "2026-05-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00361",
+    "date": "2026-05-01",
+    "amount": -48.03,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00362",
+    "date": "2026-05-02",
+    "amount": -63.67,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00363",
+    "date": "2026-05-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00364",
+    "date": "2026-05-03",
+    "amount": -11.9,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00365",
+    "date": "2026-05-04",
+    "amount": -3.3,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00366",
+    "date": "2026-05-04",
+    "amount": -63.68,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00367",
+    "date": "2026-05-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00368",
+    "date": "2026-05-05",
+    "amount": -91.09,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00369",
+    "date": "2026-05-05",
+    "amount": -4.8,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00370",
+    "date": "2026-05-05",
+    "amount": -67.44,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00371",
+    "date": "2026-05-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00372",
+    "date": "2026-05-07",
+    "amount": -51.73,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00373",
+    "date": "2026-05-08",
+    "amount": -59.45,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00374",
+    "date": "2026-05-09",
+    "amount": -70.64,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00375",
+    "date": "2026-05-09",
+    "amount": -7.81,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00376",
+    "date": "2026-05-09",
+    "amount": -48.65,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00377",
+    "date": "2026-05-11",
+    "amount": -4.92,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00378",
+    "date": "2026-05-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00379",
+    "date": "2026-05-12",
+    "amount": -58.19,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00380",
+    "date": "2026-05-14",
+    "amount": -24.92,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00381",
+    "date": "2026-05-14",
+    "amount": -5.63,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00382",
+    "date": "2026-05-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00383",
+    "date": "2026-05-15",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00384",
+    "date": "2026-05-16",
+    "amount": -78.71,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00385",
+    "date": "2026-05-16",
+    "amount": -6.42,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00386",
+    "date": "2026-05-16",
+    "amount": -38.1,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00387",
+    "date": "2026-05-17",
+    "amount": -10.06,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00388",
+    "date": "2026-05-18",
+    "amount": -3.46,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00389",
+    "date": "2026-05-18",
+    "amount": -64.28,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00390",
+    "date": "2026-05-18",
+    "amount": -52.18,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00391",
+    "date": "2026-05-19",
+    "amount": -145.0,
+    "merchant": "Tandarts Janssens",
+    "category": "health",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00392",
+    "date": "2026-05-20",
+    "amount": -71.8,
+    "merchant": "De Watergroep",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00393",
+    "date": "2026-05-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00394",
+    "date": "2026-05-20",
+    "amount": -4.69,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00395",
+    "date": "2026-05-21",
+    "amount": -29.17,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00396",
+    "date": "2026-05-22",
+    "amount": -17.87,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00397",
+    "date": "2026-05-23",
+    "amount": -94.38,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00398",
+    "date": "2026-05-23",
+    "amount": -11.54,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00399",
+    "date": "2026-05-24",
+    "amount": -7.94,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00400",
+    "date": "2026-05-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00401",
+    "date": "2026-05-26",
+    "amount": -67.37,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00402",
+    "date": "2026-05-27",
+    "amount": -5.16,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00403",
+    "date": "2026-05-27",
+    "amount": -26.92,
+    "merchant": "Apotheek De Linde",
+    "category": "health",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00404",
+    "date": "2026-05-28",
+    "amount": -4.0,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00405",
+    "date": "2026-05-29",
+    "amount": -5.58,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00406",
+    "date": "2026-05-29",
+    "amount": -58.73,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00407",
+    "date": "2026-05-30",
+    "amount": -65.87,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00408",
+    "date": "2026-05-31",
+    "amount": -10.41,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00409",
+    "date": "2026-06-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00410",
+    "date": "2026-06-01",
+    "amount": -5.35,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00411",
+    "date": "2026-06-01",
+    "amount": -57.26,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00412",
+    "date": "2026-06-02",
+    "amount": -49.71,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00413",
+    "date": "2026-06-02",
+    "amount": -4.53,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00414",
+    "date": "2026-06-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00415",
+    "date": "2026-06-03",
+    "amount": -28.87,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00416",
+    "date": "2026-06-04",
+    "amount": -25.34,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00417",
+    "date": "2026-06-04",
+    "amount": -5.78,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00418",
+    "date": "2026-06-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00419",
+    "date": "2026-06-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00420",
+    "date": "2026-06-07",
+    "amount": -9.4,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00421",
+    "date": "2026-06-08",
+    "amount": -10.12,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00422",
+    "date": "2026-06-09",
+    "amount": -68.32,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00423",
+    "date": "2026-06-09",
+    "amount": -4.1,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00424",
+    "date": "2026-06-10",
+    "amount": -5.19,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00425",
+    "date": "2026-06-10",
+    "amount": -12.73,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00426",
+    "date": "2026-06-11",
+    "amount": -5.13,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00427",
+    "date": "2026-06-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00428",
+    "date": "2026-06-12",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00429",
+    "date": "2026-06-12",
+    "amount": -30.12,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00430",
+    "date": "2026-06-12",
+    "amount": -5.32,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00431",
+    "date": "2026-06-13",
+    "amount": -55.2,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00432",
+    "date": "2026-06-13",
+    "amount": -6.16,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00433",
+    "date": "2026-06-13",
+    "amount": -31.05,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00434",
+    "date": "2026-06-14",
+    "amount": -8.22,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00435",
+    "date": "2026-06-14",
+    "amount": -76.48,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00436",
+    "date": "2026-06-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00437",
+    "date": "2026-06-15",
+    "amount": -3.98,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00438",
+    "date": "2026-06-16",
+    "amount": -46.23,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00439",
+    "date": "2026-06-16",
+    "amount": -4.27,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00440",
+    "date": "2026-06-17",
+    "amount": -4.37,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00441",
+    "date": "2026-06-18",
+    "amount": -22.52,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00442",
+    "date": "2026-06-18",
+    "amount": -17.18,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00443",
+    "date": "2026-06-19",
+    "amount": -5.56,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00444",
+    "date": "2026-06-19",
+    "amount": -37.5,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00445",
+    "date": "2026-06-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00446",
+    "date": "2026-06-20",
+    "amount": -72.45,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00447",
+    "date": "2026-06-21",
+    "amount": -6.46,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00448",
+    "date": "2026-06-23",
+    "amount": -50.61,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00449",
+    "date": "2026-06-23",
+    "amount": -5.63,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00450",
+    "date": "2026-06-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00451",
+    "date": "2026-06-26",
+    "amount": -55.11,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00452",
+    "date": "2026-06-27",
+    "amount": -84.63,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00453",
+    "date": "2026-06-27",
+    "amount": -15.19,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00454",
+    "date": "2026-06-27",
+    "amount": -9.23,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00455",
+    "date": "2026-06-27",
+    "amount": -35.55,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00456",
+    "date": "2026-06-28",
+    "amount": -9.12,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00457",
+    "date": "2026-06-28",
+    "amount": -64.68,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00458",
+    "date": "2026-06-29",
+    "amount": -36.67,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00459",
+    "date": "2026-07-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00460",
+    "date": "2026-07-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00461",
+    "date": "2026-07-03",
+    "amount": -4.44,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00462",
+    "date": "2026-07-03",
+    "amount": -63.14,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00463",
+    "date": "2026-07-04",
+    "amount": -86.9,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00464",
+    "date": "2026-07-04",
+    "amount": -4.82,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00465",
+    "date": "2026-07-04",
+    "amount": -71.41,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00466",
+    "date": "2026-07-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00467",
+    "date": "2026-07-06",
+    "amount": -5.7,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00468",
+    "date": "2026-07-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00469",
+    "date": "2026-07-07",
+    "amount": -47.26,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00470",
+    "date": "2026-07-07",
+    "amount": -75.31,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00471",
+    "date": "2026-07-08",
+    "amount": -5.14,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00472",
+    "date": "2026-07-10",
+    "amount": -186.4,
+    "merchant": "KBC Autoverzekering",
+    "category": "insurance",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00473",
+    "date": "2026-07-10",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00474",
+    "date": "2026-07-10",
+    "amount": -4.64,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00475",
+    "date": "2026-07-10",
+    "amount": -37.29,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00476",
+    "date": "2026-07-10",
+    "amount": -412.0,
+    "merchant": "Brussels Airlines",
+    "category": "travel",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00477",
+    "date": "2026-07-11",
+    "amount": -70.66,
+    "merchant": "Restaurante La Marina",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00478",
+    "date": "2026-07-11",
+    "amount": -35.2,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00479",
+    "date": "2026-07-11",
+    "amount": -540.0,
+    "merchant": "Booking.com",
+    "category": "travel",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00480",
+    "date": "2026-07-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00481",
+    "date": "2026-07-12",
+    "amount": -54.48,
+    "merchant": "Chiringuito Sol",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00482",
+    "date": "2026-07-12",
+    "amount": -20.21,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00483",
+    "date": "2026-07-13",
+    "amount": -48.49,
+    "merchant": "Taberna El Puerto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00484",
+    "date": "2026-07-13",
+    "amount": -37.24,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00485",
+    "date": "2026-07-14",
+    "amount": -40.16,
+    "merchant": "Restaurante La Marina",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00486",
+    "date": "2026-07-14",
+    "amount": -23.72,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00487",
+    "date": "2026-07-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00488",
+    "date": "2026-07-15",
+    "amount": -54.26,
+    "merchant": "Chiringuito Sol",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00489",
+    "date": "2026-07-16",
+    "amount": -62.98,
+    "merchant": "Taberna El Puerto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00490",
+    "date": "2026-07-16",
+    "amount": -52.84,
+    "merchant": "GetYourGuide",
+    "category": "travel",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00491",
+    "date": "2026-07-17",
+    "amount": -50.06,
+    "merchant": "Pizzeria Mediterranea",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00492",
+    "date": "2026-07-17",
+    "amount": -26.69,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00493",
+    "date": "2026-07-18",
+    "amount": -74.13,
+    "merchant": "Chiringuito Sol",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00494",
+    "date": "2026-07-18",
+    "amount": -29.86,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00495",
+    "date": "2026-07-18",
+    "amount": -480.0,
+    "merchant": "Booking.com",
+    "category": "travel",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00496",
+    "date": "2026-07-19",
+    "amount": -44.78,
+    "merchant": "Restaurante La Marina",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00497",
+    "date": "2026-07-19",
+    "amount": -20.27,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00498",
+    "date": "2026-07-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00499",
+    "date": "2026-07-20",
+    "amount": -53.99,
+    "merchant": "Chiringuito Sol",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00500",
+    "date": "2026-07-21",
+    "amount": -67.55,
+    "merchant": "Taberna El Puerto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00501",
+    "date": "2026-07-21",
+    "amount": -44.13,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00502",
+    "date": "2026-07-22",
+    "amount": -43.88,
+    "merchant": "Pizzeria Mediterranea",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00503",
+    "date": "2026-07-23",
+    "amount": -59.55,
+    "merchant": "Taberna El Puerto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00504",
+    "date": "2026-07-23",
+    "amount": -31.21,
+    "merchant": "Mercadona",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00505",
+    "date": "2026-07-24",
+    "amount": -81.6,
+    "merchant": "Taberna El Puerto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00506",
+    "date": "2026-07-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00507",
+    "date": "2026-07-25",
+    "amount": -62.5,
+    "merchant": "Pizzeria Mediterranea",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00508",
+    "date": "2026-07-25",
+    "amount": -77.86,
+    "merchant": "GetYourGuide",
+    "category": "travel",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00509",
+    "date": "2026-07-26",
+    "amount": -10.86,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00510",
+    "date": "2026-07-26",
+    "amount": -69.5,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00511",
+    "date": "2026-07-28",
+    "amount": -66.88,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00512",
+    "date": "2026-07-29",
+    "amount": -66.45,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00513",
+    "date": "2026-07-31",
+    "amount": -5.14,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00514",
+    "date": "2026-07-31",
+    "amount": -62.38,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00515",
+    "date": "2026-08-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00516",
+    "date": "2026-08-01",
+    "amount": -66.53,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00517",
+    "date": "2026-08-01",
+    "amount": -5.28,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00518",
+    "date": "2026-08-01",
+    "amount": -76.09,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00519",
+    "date": "2026-08-02",
+    "amount": -10.38,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00520",
+    "date": "2026-08-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00521",
+    "date": "2026-08-04",
+    "amount": -44.23,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00522",
+    "date": "2026-08-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00523",
+    "date": "2026-08-05",
+    "amount": -68.37,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00524",
+    "date": "2026-08-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00525",
+    "date": "2026-08-07",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00526",
+    "date": "2026-08-07",
+    "amount": -3.46,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00527",
+    "date": "2026-08-08",
+    "amount": -87.17,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00528",
+    "date": "2026-08-08",
+    "amount": -8.98,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00529",
+    "date": "2026-08-09",
+    "amount": -10.6,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00530",
+    "date": "2026-08-10",
+    "amount": -3.51,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00531",
+    "date": "2026-08-11",
+    "amount": -45.86,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00532",
+    "date": "2026-08-11",
+    "amount": -4.85,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00533",
+    "date": "2026-08-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00534",
+    "date": "2026-08-12",
+    "amount": -4.02,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00535",
+    "date": "2026-08-12",
+    "amount": -10.37,
+    "merchant": "Apotheek De Linde",
+    "category": "health",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00536",
+    "date": "2026-08-14",
+    "amount": -22.99,
+    "merchant": "OpenAI ChatGPT Plus",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00537",
+    "date": "2026-08-14",
+    "amount": -3.28,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00538",
+    "date": "2026-08-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00539",
+    "date": "2026-08-15",
+    "amount": -64.07,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00540",
+    "date": "2026-08-15",
+    "amount": -33.66,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00541",
+    "date": "2026-08-15",
+    "amount": -58.97,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00542",
+    "date": "2026-08-16",
+    "amount": -9.89,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00543",
+    "date": "2026-08-18",
+    "amount": -63.03,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00544",
+    "date": "2026-08-20",
+    "amount": -71.8,
+    "merchant": "De Watergroep",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00545",
+    "date": "2026-08-20",
+    "amount": -11.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00546",
+    "date": "2026-08-20",
+    "amount": -16.42,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00547",
+    "date": "2026-08-22",
+    "amount": -71.3,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00548",
+    "date": "2026-08-24",
+    "amount": -3.4,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00549",
+    "date": "2026-08-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00550",
+    "date": "2026-08-25",
+    "amount": -88.01,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00551",
+    "date": "2026-08-26",
+    "amount": -134.5,
+    "merchant": "Decathlon Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00552",
+    "date": "2026-08-28",
+    "amount": -66.11,
+    "merchant": "De Werf Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00553",
+    "date": "2026-08-28",
+    "amount": -54.59,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00554",
+    "date": "2026-08-28",
+    "amount": -79.85,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00555",
+    "date": "2026-08-29",
+    "amount": -92.61,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00556",
+    "date": "2026-08-29",
+    "amount": -5.49,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00557",
+    "date": "2026-08-29",
+    "amount": -35.95,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00558",
+    "date": "2026-08-29",
+    "amount": -38.31,
+    "merchant": "Bol.com",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00559",
+    "date": "2026-08-29",
+    "amount": -86.4,
+    "merchant": "Standaard Boekhandel",
+    "category": "education",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00560",
+    "date": "2026-08-30",
+    "amount": -7.47,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00561",
+    "date": "2026-08-30",
+    "amount": -118.7,
+    "merchant": "JBC Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00562",
+    "date": "2026-08-31",
+    "amount": -51.84,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00563",
+    "date": "2026-09-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00564",
+    "date": "2026-09-01",
+    "amount": -57.58,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00565",
+    "date": "2026-09-02",
+    "amount": -4.16,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00566",
+    "date": "2026-09-02",
+    "amount": -245.0,
+    "merchant": "Basisschool De Regenboog",
+    "category": "education",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00567",
+    "date": "2026-09-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00568",
+    "date": "2026-09-03",
+    "amount": -4.66,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00569",
+    "date": "2026-09-04",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00570",
+    "date": "2026-09-04",
+    "amount": -50.12,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00571",
+    "date": "2026-09-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00572",
+    "date": "2026-09-05",
+    "amount": -59.89,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00573",
+    "date": "2026-09-05",
+    "amount": -5.55,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00574",
+    "date": "2026-09-05",
+    "amount": -32.21,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00575",
+    "date": "2026-09-05",
+    "amount": -42.0,
+    "merchant": "HEMA",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00576",
+    "date": "2026-09-06",
+    "amount": -70.35,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00577",
+    "date": "2026-09-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00578",
+    "date": "2026-09-07",
+    "amount": -4.88,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00579",
+    "date": "2026-09-08",
+    "amount": -74.37,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00580",
+    "date": "2026-09-08",
+    "amount": -46.05,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00581",
+    "date": "2026-09-09",
+    "amount": -8.16,
+    "merchant": "Apotheek De Linde",
+    "category": "health",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00582",
+    "date": "2026-09-10",
+    "amount": -8.96,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00583",
+    "date": "2026-09-11",
+    "amount": -4.6,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00584",
+    "date": "2026-09-11",
+    "amount": -41.87,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00585",
+    "date": "2026-09-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00586",
+    "date": "2026-09-12",
+    "amount": -56.62,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00587",
+    "date": "2026-09-12",
+    "amount": -68.72,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00588",
+    "date": "2026-09-13",
+    "amount": -5.15,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00589",
+    "date": "2026-09-14",
+    "amount": -22.99,
+    "merchant": "OpenAI ChatGPT Plus",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00590",
+    "date": "2026-09-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00591",
+    "date": "2026-09-15",
+    "amount": -92.32,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00592",
+    "date": "2026-09-16",
+    "amount": -21.26,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00593",
+    "date": "2026-09-17",
+    "amount": -4.38,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00594",
+    "date": "2026-09-18",
+    "amount": -4.69,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00595",
+    "date": "2026-09-18",
+    "amount": -39.42,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00596",
+    "date": "2026-09-18",
+    "amount": -21.99,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00597",
+    "date": "2026-09-18",
+    "amount": -15.36,
+    "merchant": "Action",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00598",
+    "date": "2026-09-19",
+    "amount": -91.08,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00599",
+    "date": "2026-09-19",
+    "amount": -11.35,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00600",
+    "date": "2026-09-19",
+    "amount": -48.97,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00601",
+    "date": "2026-09-20",
+    "amount": -12.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00602",
+    "date": "2026-09-21",
+    "amount": -21.7,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00603",
+    "date": "2026-09-21",
+    "amount": -48.05,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00604",
+    "date": "2026-09-22",
+    "amount": -64.03,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00605",
+    "date": "2026-09-22",
+    "amount": -5.24,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00606",
+    "date": "2026-09-23",
+    "amount": -66.21,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00607",
+    "date": "2026-09-23",
+    "amount": -41.93,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00608",
+    "date": "2026-09-24",
+    "amount": -4.07,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00609",
+    "date": "2026-09-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00610",
+    "date": "2026-09-25",
+    "amount": -76.06,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00611",
+    "date": "2026-09-25",
+    "amount": -79.25,
+    "merchant": "Kruidvat",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00612",
+    "date": "2026-09-26",
+    "amount": -64.13,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00613",
+    "date": "2026-09-26",
+    "amount": -8.29,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00614",
+    "date": "2026-09-26",
+    "amount": -47.72,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00615",
+    "date": "2026-09-27",
+    "amount": -6.46,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00616",
+    "date": "2026-09-28",
+    "amount": -3.91,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00617",
+    "date": "2026-09-28",
+    "amount": -38.14,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00618",
+    "date": "2026-09-28",
+    "amount": -44.82,
+    "merchant": "Action",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00619",
+    "date": "2026-09-29",
+    "amount": -92.98,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00620",
+    "date": "2026-09-29",
+    "amount": -3.89,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00621",
+    "date": "2026-09-29",
+    "amount": -35.88,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00622",
+    "date": "2026-09-30",
+    "amount": -63.56,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00623",
+    "date": "2026-09-30",
+    "amount": -33.82,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00624",
+    "date": "2026-10-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00625",
+    "date": "2026-10-01",
+    "amount": -18.85,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00626",
+    "date": "2026-10-01",
+    "amount": -4.4,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00627",
+    "date": "2026-10-01",
+    "amount": -72.62,
+    "merchant": "Zara Leuven",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00628",
+    "date": "2026-10-02",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00629",
+    "date": "2026-10-02",
+    "amount": -4.84,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00630",
+    "date": "2026-10-02",
+    "amount": -57.12,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00631",
+    "date": "2026-10-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00632",
+    "date": "2026-10-03",
+    "amount": -74.82,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00633",
+    "date": "2026-10-03",
+    "amount": -10.85,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00634",
+    "date": "2026-10-04",
+    "amount": -42.72,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00635",
+    "date": "2026-10-04",
+    "amount": -9.93,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00636",
+    "date": "2026-10-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00637",
+    "date": "2026-10-06",
+    "amount": -74.89,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00638",
+    "date": "2026-10-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00639",
+    "date": "2026-10-07",
+    "amount": -18.24,
+    "merchant": "Apotheek De Linde",
+    "category": "health",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00640",
+    "date": "2026-10-08",
+    "amount": -66.71,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00641",
+    "date": "2026-10-09",
+    "amount": -30.93,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00642",
+    "date": "2026-10-10",
+    "amount": -186.4,
+    "merchant": "KBC Autoverzekering",
+    "category": "insurance",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00643",
+    "date": "2026-10-10",
+    "amount": -6.5,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00644",
+    "date": "2026-10-11",
+    "amount": -10.85,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00645",
+    "date": "2026-10-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00646",
+    "date": "2026-10-12",
+    "amount": -4.74,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00647",
+    "date": "2026-10-13",
+    "amount": -92.01,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00648",
+    "date": "2026-10-14",
+    "amount": -22.99,
+    "merchant": "OpenAI ChatGPT Plus",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00649",
+    "date": "2026-10-14",
+    "amount": -39.63,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00650",
+    "date": "2026-10-14",
+    "amount": -16.59,
+    "merchant": "NMBS/SNCB",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00651",
+    "date": "2026-10-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00652",
+    "date": "2026-10-15",
+    "amount": -5.29,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00653",
+    "date": "2026-10-16",
+    "amount": -4.57,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00654",
+    "date": "2026-10-16",
+    "amount": -31.63,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00655",
+    "date": "2026-10-17",
+    "amount": -45.78,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00656",
+    "date": "2026-10-19",
+    "amount": -59.98,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00657",
+    "date": "2026-10-19",
+    "amount": -28.46,
+    "merchant": "Apotheek De Linde",
+    "category": "health",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00658",
+    "date": "2026-10-20",
+    "amount": -12.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00659",
+    "date": "2026-10-20",
+    "amount": -86.49,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00660",
+    "date": "2026-10-21",
+    "amount": -4.49,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00661",
+    "date": "2026-10-22",
+    "amount": -12.71,
+    "merchant": "Apotheek De Linde",
+    "category": "health",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00662",
+    "date": "2026-10-23",
+    "amount": -5.25,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00663",
+    "date": "2026-10-23",
+    "amount": -30.41,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00664",
+    "date": "2026-10-24",
+    "amount": -59.59,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00665",
+    "date": "2026-10-24",
+    "amount": -8.1,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00666",
+    "date": "2026-10-25",
+    "amount": 3420.0,
+    "merchant": "Salaris Brightline NV",
+    "category": "income",
+    "channel": "transfer"
+  },
+  {
+    "id": "tx_00667",
+    "date": "2026-10-25",
+    "amount": -10.84,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00668",
+    "date": "2026-10-26",
+    "amount": -4.18,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00669",
+    "date": "2026-10-27",
+    "amount": -72.98,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00670",
+    "date": "2026-10-27",
+    "amount": -5.65,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00671",
+    "date": "2026-10-28",
+    "amount": -5.01,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00672",
+    "date": "2026-10-29",
+    "amount": -9.19,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00673",
+    "date": "2026-10-29",
+    "amount": -46.04,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00674",
+    "date": "2026-10-30",
+    "amount": -29.99,
+    "merchant": "Basic-Fit",
+    "category": "subscriptions",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00675",
+    "date": "2026-10-30",
+    "amount": -3.74,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00676",
+    "date": "2026-10-30",
+    "amount": -76.85,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00677",
+    "date": "2026-10-31",
+    "amount": -75.68,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00678",
+    "date": "2026-10-31",
+    "amount": -5.89,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00679",
+    "date": "2026-10-31",
+    "amount": -46.47,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00680",
+    "date": "2026-10-31",
+    "amount": -44.1,
+    "merchant": "Action",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00681",
+    "date": "2026-11-01",
+    "amount": -975.0,
+    "merchant": "Immo Verhuur Leuven",
+    "category": "housing",
+    "channel": "standing_order"
+  },
+  {
+    "id": "tx_00682",
+    "date": "2026-11-01",
+    "amount": -10.14,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00683",
+    "date": "2026-11-02",
+    "amount": -66.39,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00684",
+    "date": "2026-11-03",
+    "amount": -2.99,
+    "merchant": "Apple iCloud",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00685",
+    "date": "2026-11-03",
+    "amount": -91.37,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00686",
+    "date": "2026-11-03",
+    "amount": -3.98,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00687",
+    "date": "2026-11-03",
+    "amount": -53.7,
+    "merchant": "Kruidvat",
+    "category": "shopping",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00688",
+    "date": "2026-11-04",
+    "amount": -65.86,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00689",
+    "date": "2026-11-05",
+    "amount": -67.5,
+    "merchant": "Telenet",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00690",
+    "date": "2026-11-05",
+    "amount": -9.02,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00691",
+    "date": "2026-11-06",
+    "amount": -32.35,
+    "merchant": "Burger Bros Leuven",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00692",
+    "date": "2026-11-07",
+    "amount": -14.99,
+    "merchant": "Netflix",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00693",
+    "date": "2026-11-07",
+    "amount": -87.79,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00694",
+    "date": "2026-11-07",
+    "amount": -8.42,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00695",
+    "date": "2026-11-07",
+    "amount": -48.72,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00696",
+    "date": "2026-11-08",
+    "amount": -5.29,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00697",
+    "date": "2026-11-10",
+    "amount": -60.97,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00698",
+    "date": "2026-11-11",
+    "amount": -29.26,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00699",
+    "date": "2026-11-11",
+    "amount": -4.17,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00700",
+    "date": "2026-11-12",
+    "amount": -20.0,
+    "merchant": "Orange Belgium",
+    "category": "telecom",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00701",
+    "date": "2026-11-13",
+    "amount": -32.46,
+    "merchant": "Brasserie Den Boule",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00702",
+    "date": "2026-11-14",
+    "amount": -22.99,
+    "merchant": "OpenAI ChatGPT Plus",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00703",
+    "date": "2026-11-14",
+    "amount": -87.43,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00704",
+    "date": "2026-11-14",
+    "amount": -5.69,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00705",
+    "date": "2026-11-14",
+    "amount": -53.34,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00706",
+    "date": "2026-11-15",
+    "amount": -128.0,
+    "merchant": "Engie Electrabel",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00707",
+    "date": "2026-11-15",
+    "amount": -11.06,
+    "merchant": "Bakkerij Vandermeulen",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00708",
+    "date": "2026-11-16",
+    "amount": -25.81,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00709",
+    "date": "2026-11-16",
+    "amount": -4.16,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00710",
+    "date": "2026-11-17",
+    "amount": -65.86,
+    "merchant": "Colruyt Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00711",
+    "date": "2026-11-17",
+    "amount": -66.33,
+    "merchant": "TotalEnergies Leuven",
+    "category": "transport",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00712",
+    "date": "2026-11-18",
+    "amount": -4.21,
+    "merchant": "Koffie Onan",
+    "category": "coffee",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00713",
+    "date": "2026-11-18",
+    "amount": -56.61,
+    "merchant": "Pizzeria Il Gusto",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00714",
+    "date": "2026-11-19",
+    "amount": -17.83,
+    "merchant": "Delhaize Leuven",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00715",
+    "date": "2026-11-19",
+    "amount": -38.41,
+    "merchant": "Aldi Heverlee",
+    "category": "groceries",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00716",
+    "date": "2026-11-19",
+    "amount": -73.58,
+    "merchant": "Thai Siam",
+    "category": "dining",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00717",
+    "date": "2026-11-20",
+    "amount": -71.8,
+    "merchant": "De Watergroep",
+    "category": "utilities",
+    "channel": "direct_debit"
+  },
+  {
+    "id": "tx_00718",
+    "date": "2026-11-20",
+    "amount": -12.99,
+    "merchant": "Spotify",
+    "category": "subscriptions",
+    "channel": "card"
+  },
+  {
+    "id": "tx_00719",
+    "date": "2026-11-20",
+    "amount": -63.47,
+    "merchant": "Sushi Kyoto Leuven",
+    "category": "dining",
+    "channel": "card"
+  }
+]
