@@ -1,0 +1,1745 @@
+{
+  "summary": {
+    "period_start": "2025-10-01",
+    "period_end": "2026-11-20",
+    "as_of": "2026-11-20",
+    "total_spent": 43828.24,
+    "total_income": 44460.0,
+    "average_monthly_spent": 3179.1,
+    "recurring_monthly_total": 1363.15,
+    "subscriptions_monthly_total": 86.56,
+    "recurring_share_of_spend_pct": 43.28,
+    "active_subscriptions": 5,
+    "active_recurring_bills": 6,
+    "cancelled_subscriptions": 1,
+    "expensive_periods": 8,
+    "top_categories": [
+      {
+        "category": "housing",
+        "amount": 13650.0,
+        "share_pct": 31.14
+      },
+      {
+        "category": "groceries",
+        "amount": 9244.47,
+        "share_pct": 21.09
+      },
+      {
+        "category": "dining",
+        "amount": 6183.8,
+        "share_pct": 14.11
+      },
+      {
+        "category": "shopping",
+        "amount": 3946.63,
+        "share_pct": 9.0
+      },
+      {
+        "category": "transport",
+        "amount": 2828.12,
+        "share_pct": 6.45
+      }
+    ]
+  },
+  "feed": [
+    {
+      "id": "card_01",
+      "priority": 1,
+      "type": "upcoming_expensive_period",
+      "title": "Coming up: holiday season and gifts",
+      "message": "Holiday season and gifts usually starts around 8 December, in 18 days. Last time it cost EUR 985 more than normal (mostly Fnac, Delhaize Leuven). Setting aside EUR 492 a week covers it."
+    },
+    {
+      "id": "card_02",
+      "priority": 2,
+      "type": "new_subscription",
+      "title": "New subscription: OpenAI ChatGPT Plus",
+      "message": "New subscription: OpenAI ChatGPT Plus, EUR 22.99 monthly since 14 August (EUR 276 a year)."
+    },
+    {
+      "id": "card_03",
+      "priority": 2,
+      "type": "habit_shift",
+      "title": "Dining spending is up",
+      "message": "Dining is up 45% in the last 8 weeks: EUR 528 a month instead of EUR 364 (2.5 payments a week instead of 1.6)."
+    },
+    {
+      "id": "card_04",
+      "priority": 2,
+      "type": "price_change",
+      "title": "Spotify got more expensive",
+      "message": "Spotify went from EUR 11.99 to EUR 12.99 on 20 September (+8%)."
+    },
+    {
+      "id": "card_05",
+      "priority": 3,
+      "type": "month_forecast",
+      "title": "End of month forecast",
+      "message": "Expected to end November at EUR 3011 spent (a typical month is EUR 2937), EUR +409 after income."
+    }
+  ],
+  "forecast": {
+    "month": "2026-11",
+    "as_of": "2026-11-20",
+    "day_of_month": 20,
+    "days_in_month": 30,
+    "month_to_date": {
+      "spent": 2499.94,
+      "typical_by_today": 2380.29,
+      "difference": 119.65,
+      "difference_pct": 5.03,
+      "status": "on_track",
+      "income": 0.0,
+      "message": "You spent EUR 2500 so far in November. By day 20 you usually spend EUR 2380 (+5%)."
+    },
+    "end_of_month": {
+      "projected_spend": 3011.4,
+      "typical_month_spend": 2937.45,
+      "remaining_recurring": [
+        {
+          "merchant": "Basic-Fit",
+          "date": "2026-11-27",
+          "amount": 29.99,
+          "kind": "subscription"
+        }
+      ],
+      "remaining_recurring_total": 29.99,
+      "remaining_discretionary_estimate": 481.47,
+      "remaining_income": [
+        {
+          "source": "Salaris Brightline NV",
+          "date": "2026-11-25",
+          "amount": 3420.0
+        }
+      ],
+      "projected_income": 3420.0,
+      "projected_net": 408.6,
+      "message": "Expected to end November at EUR 3011 spent (a typical month is EUR 2937), EUR +409 after income."
+    },
+    "daily": [
+      {
+        "day": 1,
+        "date": "2026-11-01",
+        "actual": 985.14,
+        "typical": 1023.03,
+        "projected": null
+      },
+      {
+        "day": 2,
+        "date": "2026-11-02",
+        "actual": 1051.53,
+        "typical": 1086.7,
+        "projected": null
+      },
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "actual": 1203.57,
+        "typical": 1123.71,
+        "projected": null
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "actual": 1269.43,
+        "typical": 1168.57,
+        "projected": null
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "actual": 1345.95,
+        "typical": 1276.2,
+        "projected": null
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "actual": 1378.3,
+        "typical": 1316.37,
+        "projected": null
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "actual": 1538.22,
+        "typical": 1419.46,
+        "projected": null
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "actual": 1543.51,
+        "typical": 1460.96,
+        "projected": null
+      },
+      {
+        "day": 9,
+        "date": "2026-11-09",
+        "actual": 1543.51,
+        "typical": 1474.5,
+        "projected": null
+      },
+      {
+        "day": 10,
+        "date": "2026-11-10",
+        "actual": 1604.48,
+        "typical": 1652.67,
+        "projected": null
+      },
+      {
+        "day": 11,
+        "date": "2026-11-11",
+        "actual": 1637.91,
+        "typical": 1701.39,
+        "projected": null
+      },
+      {
+        "day": 12,
+        "date": "2026-11-12",
+        "actual": 1657.91,
+        "typical": 1735.78,
+        "projected": null
+      },
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "actual": 1690.37,
+        "typical": 1735.78,
+        "projected": null
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "actual": 1859.82,
+        "typical": 1881.44,
+        "projected": null
+      },
+      {
+        "day": 15,
+        "date": "2026-11-15",
+        "actual": 1998.88,
+        "typical": 2066.11,
+        "projected": null
+      },
+      {
+        "day": 16,
+        "date": "2026-11-16",
+        "actual": 2028.85,
+        "typical": 2066.11,
+        "projected": null
+      },
+      {
+        "day": 17,
+        "date": "2026-11-17",
+        "actual": 2161.04,
+        "typical": 2153.16,
+        "projected": null
+      },
+      {
+        "day": 18,
+        "date": "2026-11-18",
+        "actual": 2221.86,
+        "typical": 2177.53,
+        "projected": null
+      },
+      {
+        "day": 19,
+        "date": "2026-11-19",
+        "actual": 2351.68,
+        "typical": 2280.81,
+        "projected": null
+      },
+      {
+        "day": 20,
+        "date": "2026-11-20",
+        "actual": 2499.94,
+        "typical": 2380.29,
+        "projected": 2499.94
+      },
+      {
+        "day": 21,
+        "date": "2026-11-21",
+        "actual": null,
+        "typical": 2390.42,
+        "projected": 2561.28
+      },
+      {
+        "day": 22,
+        "date": "2026-11-22",
+        "actual": null,
+        "typical": 2419.32,
+        "projected": 2574.26
+      },
+      {
+        "day": 23,
+        "date": "2026-11-23",
+        "actual": null,
+        "typical": 2451.78,
+        "projected": 2622.08
+      },
+      {
+        "day": 24,
+        "date": "2026-11-24",
+        "actual": null,
+        "typical": 2500.84,
+        "projected": 2675.54
+      },
+      {
+        "day": 25,
+        "date": "2026-11-25",
+        "actual": null,
+        "typical": 2568.34,
+        "projected": 2744.43
+      },
+      {
+        "day": 26,
+        "date": "2026-11-26",
+        "actual": null,
+        "typical": 2568.34,
+        "projected": 2781.77
+      },
+      {
+        "day": 27,
+        "date": "2026-11-27",
+        "actual": null,
+        "typical": 2653.35,
+        "projected": 2837.01
+      },
+      {
+        "day": 28,
+        "date": "2026-11-28",
+        "actual": null,
+        "typical": 2675.36,
+        "projected": 2957.29
+      },
+      {
+        "day": 29,
+        "date": "2026-11-29",
+        "actual": null,
+        "typical": 2800.79,
+        "projected": 2965.99
+      },
+      {
+        "day": 30,
+        "date": "2026-11-30",
+        "actual": null,
+        "typical": 2875.26,
+        "projected": 3011.4
+      }
+    ],
+    "upcoming_periods": [
+      {
+        "period_id": "period_01",
+        "kind": "holiday_season",
+        "title": "Holiday season and gifts",
+        "expected_start": "2026-12-08",
+        "days_until": 18,
+        "alert": true,
+        "last_time": {
+          "start": "2025-12-08",
+          "end": "2025-12-28",
+          "spent": 2275.55,
+          "extra_spend": 984.71,
+          "top_merchants": [
+            {
+              "merchant": "Fnac",
+              "amount": 511.17,
+              "extra_vs_usual": 479.77
+            },
+            {
+              "merchant": "Delhaize Leuven",
+              "amount": 251.27,
+              "extra_vs_usual": 218.15
+            },
+            {
+              "merchant": "MediaMarkt Leuven",
+              "amount": 265.26,
+              "extra_vs_usual": 206.49
+            }
+          ]
+        },
+        "suggested_weekly_saving": 492.36,
+        "message": "Holiday season and gifts usually starts around 8 December, in 18 days. Last time it cost EUR 985 more than normal (mostly Fnac, Delhaize Leuven). Setting aside EUR 492 a week covers it."
+      },
+      {
+        "period_id": "period_06",
+        "kind": "summer_holiday",
+        "title": "Summer holiday",
+        "expected_start": "2027-07-06",
+        "days_until": 228,
+        "alert": false,
+        "last_time": {
+          "start": "2026-07-06",
+          "end": "2026-07-26",
+          "spent": 2956.0,
+          "extra_spend": 2034.92,
+          "top_merchants": [
+            {
+              "merchant": "Booking.com",
+              "amount": 1020.0,
+              "extra_vs_usual": 968.51
+            },
+            {
+              "merchant": "Brussels Airlines",
+              "amount": 412.0,
+              "extra_vs_usual": 391.2
+            },
+            {
+              "merchant": "Taberna El Puerto",
+              "amount": 320.17,
+              "extra_vs_usual": 304.01
+            }
+          ]
+        },
+        "suggested_weekly_saving": 63.59,
+        "message": "Summer holiday usually starts around 6 July, in 228 days. Last time it cost EUR 2035 more than normal (mostly Booking.com, Brussels Airlines). Setting aside EUR 64 a week covers it."
+      },
+      {
+        "period_id": "period_07",
+        "kind": "back_to_school",
+        "title": "Back to school",
+        "expected_start": "2027-08-24",
+        "days_until": 277,
+        "alert": false,
+        "last_time": {
+          "start": "2026-08-24",
+          "end": "2026-09-06",
+          "spent": 1434.75,
+          "extra_spend": 764.55,
+          "top_merchants": [
+            {
+              "merchant": "Basisschool De Regenboog",
+              "amount": 245.0,
+              "extra_vs_usual": 236.75
+            },
+            {
+              "merchant": "Decathlon Leuven",
+              "amount": 134.5,
+              "extra_vs_usual": 129.97
+            },
+            {
+              "merchant": "JBC Leuven",
+              "amount": 118.7,
+              "extra_vs_usual": 114.71
+            }
+          ]
+        },
+        "suggested_weekly_saving": 19.6,
+        "message": "Back to school usually starts around 24 August, in 277 days. Last time it cost EUR 765 more than normal (mostly Basisschool De Regenboog, Decathlon Leuven). Setting aside EUR 20 a week covers it."
+      }
+    ]
+  },
+  "changes": {
+    "new_subscriptions": [
+      {
+        "merchant": "OpenAI ChatGPT Plus",
+        "kind": "subscription",
+        "since": "2026-08-14",
+        "amount": 22.99,
+        "yearly_cost": 275.88,
+        "message": "New subscription: OpenAI ChatGPT Plus, EUR 22.99 monthly since 14 August (EUR 276 a year)."
+      }
+    ],
+    "price_changes": [
+      {
+        "merchant": "Spotify",
+        "from": 11.99,
+        "to": 12.99,
+        "date": "2026-09-20",
+        "change_pct": 8.34,
+        "yearly_impact": 12.0,
+        "message": "Spotify went from EUR 11.99 to EUR 12.99 on 20 September (+8%)."
+      }
+    ],
+    "cancelled": [
+      {
+        "merchant": "Disney+",
+        "last_charge": "2026-03-18",
+        "amount": 8.99,
+        "message": "Disney+ stopped after 18 March 2026."
+      }
+    ],
+    "habit_shifts": [
+      {
+        "category": "dining",
+        "direction": "up",
+        "recent_monthly": 527.68,
+        "usual_monthly": 363.76,
+        "change_pct": 45.06,
+        "recent_per_week": 2.5,
+        "usual_per_week": 1.58,
+        "window_days": 56,
+        "message": "Dining is up 45% in the last 8 weeks: EUR 528 a month instead of EUR 364 (2.5 payments a week instead of 1.6)."
+      }
+    ]
+  },
+  "subscriptions": [
+    {
+      "merchant": "Immo Verhuur Leuven",
+      "category": "housing",
+      "kind": "recurring_bill",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 975.0,
+      "monthly_cost": 975.0,
+      "yearly_cost": 11700.0,
+      "charges": 14,
+      "total_paid": 13650.0,
+      "first_charge": "2025-10-01",
+      "last_charge": "2026-11-01",
+      "next_expected_date": "2026-12-01",
+      "price_change": null,
+      "confidence": 1.0,
+      "why": "14 charges about every 31 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00001",
+        "tx_00043",
+        "tx_00092",
+        "tx_00163",
+        "tx_00206",
+        "tx_00253",
+        "tx_00308",
+        "tx_00360",
+        "tx_00409",
+        "tx_00459",
+        "tx_00515",
+        "tx_00563",
+        "tx_00624",
+        "tx_00681"
+      ]
+    },
+    {
+      "merchant": "Engie Electrabel",
+      "category": "utilities",
+      "kind": "recurring_bill",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 128.0,
+      "monthly_cost": 128.0,
+      "yearly_cost": 1536.0,
+      "charges": 14,
+      "total_paid": 1792.0,
+      "first_charge": "2025-10-15",
+      "last_charge": "2026-11-15",
+      "next_expected_date": "2026-12-15",
+      "price_change": null,
+      "confidence": 1.0,
+      "why": "14 charges about every 31 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00023",
+        "tx_00064",
+        "tx_00121",
+        "tx_00179",
+        "tx_00231",
+        "tx_00276",
+        "tx_00331",
+        "tx_00382",
+        "tx_00436",
+        "tx_00487",
+        "tx_00538",
+        "tx_00590",
+        "tx_00651",
+        "tx_00706"
+      ]
+    },
+    {
+      "merchant": "Telenet",
+      "category": "telecom",
+      "kind": "recurring_bill",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 67.5,
+      "monthly_cost": 67.5,
+      "yearly_cost": 810.0,
+      "charges": 14,
+      "total_paid": 945.0,
+      "first_charge": "2025-10-05",
+      "last_charge": "2026-11-05",
+      "next_expected_date": "2026-12-05",
+      "price_change": null,
+      "confidence": 1.0,
+      "why": "14 charges about every 31 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00008",
+        "tx_00050",
+        "tx_00100",
+        "tx_00167",
+        "tx_00211",
+        "tx_00260",
+        "tx_00315",
+        "tx_00367",
+        "tx_00418",
+        "tx_00466",
+        "tx_00522",
+        "tx_00571",
+        "tx_00636",
+        "tx_00689"
+      ]
+    },
+    {
+      "merchant": "KBC Autoverzekering",
+      "category": "insurance",
+      "kind": "recurring_bill",
+      "status": "active",
+      "cadence": "quarterly",
+      "interval_days": 91.5,
+      "amount": 186.4,
+      "monthly_cost": 62.15,
+      "yearly_cost": 745.76,
+      "charges": 5,
+      "total_paid": 932.0,
+      "first_charge": "2025-10-10",
+      "last_charge": "2026-10-10",
+      "next_expected_date": "2027-01-10",
+      "price_change": null,
+      "confidence": 0.97,
+      "why": "5 charges about every 91.5 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00014",
+        "tx_00173",
+        "tx_00323",
+        "tx_00472",
+        "tx_00642"
+      ]
+    },
+    {
+      "merchant": "Basic-Fit",
+      "category": "subscriptions",
+      "kind": "subscription",
+      "status": "active",
+      "cadence": "four_weekly",
+      "interval_days": 28.0,
+      "amount": 29.99,
+      "monthly_cost": 32.6,
+      "yearly_cost": 391.24,
+      "charges": 15,
+      "total_paid": 449.85,
+      "first_charge": "2025-10-03",
+      "last_charge": "2026-10-30",
+      "next_expected_date": "2026-11-27",
+      "price_change": null,
+      "confidence": 1.0,
+      "why": "15 charges about every 28 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00004",
+        "tx_00041",
+        "tx_00087",
+        "tx_00147",
+        "tx_00193",
+        "tx_00238",
+        "tx_00286",
+        "tx_00335",
+        "tx_00383",
+        "tx_00428",
+        "tx_00473",
+        "tx_00525",
+        "tx_00569",
+        "tx_00628",
+        "tx_00674"
+      ]
+    },
+    {
+      "merchant": "De Watergroep",
+      "category": "utilities",
+      "kind": "recurring_bill",
+      "status": "active",
+      "cadence": "quarterly",
+      "interval_days": 92.0,
+      "amount": 71.8,
+      "monthly_cost": 23.94,
+      "yearly_cost": 287.26,
+      "charges": 5,
+      "total_paid": 359.0,
+      "first_charge": "2025-11-20",
+      "last_charge": "2026-11-20",
+      "next_expected_date": "2027-02-20",
+      "price_change": null,
+      "confidence": 0.97,
+      "why": "5 charges about every 92 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00074",
+        "tx_00236",
+        "tx_00392",
+        "tx_00544",
+        "tx_00717"
+      ]
+    },
+    {
+      "merchant": "OpenAI ChatGPT Plus",
+      "category": "subscriptions",
+      "kind": "subscription",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 22.99,
+      "monthly_cost": 22.99,
+      "yearly_cost": 275.88,
+      "charges": 4,
+      "total_paid": 91.96,
+      "first_charge": "2026-08-14",
+      "last_charge": "2026-11-14",
+      "next_expected_date": "2026-12-14",
+      "price_change": null,
+      "confidence": 0.9,
+      "why": "4 charges about every 31 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00536",
+        "tx_00589",
+        "tx_00648",
+        "tx_00702"
+      ]
+    },
+    {
+      "merchant": "Orange Belgium",
+      "category": "telecom",
+      "kind": "recurring_bill",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 20.0,
+      "monthly_cost": 20.0,
+      "yearly_cost": 240.0,
+      "charges": 14,
+      "total_paid": 280.0,
+      "first_charge": "2025-10-12",
+      "last_charge": "2026-11-12",
+      "next_expected_date": "2026-12-12",
+      "price_change": null,
+      "confidence": 1.0,
+      "why": "14 charges about every 31 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00019",
+        "tx_00060",
+        "tx_00116",
+        "tx_00177",
+        "tx_00224",
+        "tx_00270",
+        "tx_00329",
+        "tx_00378",
+        "tx_00427",
+        "tx_00480",
+        "tx_00533",
+        "tx_00585",
+        "tx_00645",
+        "tx_00700"
+      ]
+    },
+    {
+      "merchant": "Netflix",
+      "category": "subscriptions",
+      "kind": "subscription",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 14.99,
+      "monthly_cost": 14.99,
+      "yearly_cost": 179.88,
+      "charges": 14,
+      "total_paid": 203.86,
+      "first_charge": "2025-10-07",
+      "last_charge": "2026-11-07",
+      "next_expected_date": "2026-12-07",
+      "price_change": {
+        "from": 13.49,
+        "to": 14.99,
+        "date": "2026-02-07",
+        "change_pct": 11.12
+      },
+      "confidence": 0.97,
+      "why": "14 charges about every 31 days (100% on schedule), amount stable in 92% of consecutive charges",
+      "transaction_ids": [
+        "tx_00011",
+        "tx_00052",
+        "tx_00106",
+        "tx_00169",
+        "tx_00215",
+        "tx_00264",
+        "tx_00318",
+        "tx_00371",
+        "tx_00419",
+        "tx_00468",
+        "tx_00524",
+        "tx_00577",
+        "tx_00638",
+        "tx_00692"
+      ]
+    },
+    {
+      "merchant": "Spotify",
+      "category": "subscriptions",
+      "kind": "subscription",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 12.99,
+      "monthly_cost": 12.99,
+      "yearly_cost": 155.88,
+      "charges": 14,
+      "total_paid": 170.86,
+      "first_charge": "2025-10-20",
+      "last_charge": "2026-11-20",
+      "next_expected_date": "2026-12-20",
+      "price_change": {
+        "from": 11.99,
+        "to": 12.99,
+        "date": "2026-09-20",
+        "change_pct": 8.34
+      },
+      "confidence": 0.97,
+      "why": "14 charges about every 31 days (100% on schedule), amount stable in 92% of consecutive charges",
+      "transaction_ids": [
+        "tx_00029",
+        "tx_00075",
+        "tx_00134",
+        "tx_00188",
+        "tx_00237",
+        "tx_00285",
+        "tx_00340",
+        "tx_00393",
+        "tx_00445",
+        "tx_00498",
+        "tx_00545",
+        "tx_00601",
+        "tx_00658",
+        "tx_00718"
+      ]
+    },
+    {
+      "merchant": "Apple iCloud",
+      "category": "subscriptions",
+      "kind": "subscription",
+      "status": "active",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 2.99,
+      "monthly_cost": 2.99,
+      "yearly_cost": 35.88,
+      "charges": 14,
+      "total_paid": 41.86,
+      "first_charge": "2025-10-03",
+      "last_charge": "2026-11-03",
+      "next_expected_date": "2026-12-03",
+      "price_change": null,
+      "confidence": 1.0,
+      "why": "14 charges about every 31 days (100% on schedule), amount stable in 100% of consecutive charges",
+      "transaction_ids": [
+        "tx_00003",
+        "tx_00048",
+        "tx_00096",
+        "tx_00164",
+        "tx_00208",
+        "tx_00255",
+        "tx_00311",
+        "tx_00363",
+        "tx_00414",
+        "tx_00460",
+        "tx_00520",
+        "tx_00567",
+        "tx_00631",
+        "tx_00684"
+      ]
+    },
+    {
+      "merchant": "Disney+",
+      "category": "subscriptions",
+      "kind": "subscription",
+      "status": "cancelled",
+      "cadence": "monthly",
+      "interval_days": 31.0,
+      "amount": 8.99,
+      "monthly_cost": 0.0,
+      "yearly_cost": 0.0,
+      "charges": 6,
+      "total_paid": 53.94,
+      "first_charge": "2025-10-18",
+      "last_charge": "2026-03-18",
+      "next_expected_date": null,
+      "price_change": null,
+      "confidence": 0.95,
+      "why": "6 charges about every 31 days (100% on schedule), amount stable in 100% of consecutive charges; no charge for 247 days",
+      "transaction_ids": [
+        "tx_00025",
+        "tx_00070",
+        "tx_00128",
+        "tx_00185",
+        "tx_00234",
+        "tx_00281"
+      ]
+    }
+  ],
+  "upcoming_charges": [
+    {
+      "merchant": "Basic-Fit",
+      "date": "2026-11-27",
+      "amount": 29.99,
+      "kind": "subscription"
+    },
+    {
+      "merchant": "Immo Verhuur Leuven",
+      "date": "2026-12-01",
+      "amount": 975.0,
+      "kind": "recurring_bill"
+    },
+    {
+      "merchant": "Apple iCloud",
+      "date": "2026-12-03",
+      "amount": 2.99,
+      "kind": "subscription"
+    },
+    {
+      "merchant": "Telenet",
+      "date": "2026-12-05",
+      "amount": 67.5,
+      "kind": "recurring_bill"
+    },
+    {
+      "merchant": "Netflix",
+      "date": "2026-12-07",
+      "amount": 14.99,
+      "kind": "subscription"
+    },
+    {
+      "merchant": "Orange Belgium",
+      "date": "2026-12-12",
+      "amount": 20.0,
+      "kind": "recurring_bill"
+    },
+    {
+      "merchant": "OpenAI ChatGPT Plus",
+      "date": "2026-12-14",
+      "amount": 22.99,
+      "kind": "subscription"
+    },
+    {
+      "merchant": "Engie Electrabel",
+      "date": "2026-12-15",
+      "amount": 128.0,
+      "kind": "recurring_bill"
+    },
+    {
+      "merchant": "Spotify",
+      "date": "2026-12-20",
+      "amount": 12.99,
+      "kind": "subscription"
+    }
+  ],
+  "income_streams": [
+    {
+      "source": "Salaris Brightline NV",
+      "cadence": "monthly",
+      "amount": 3420.0,
+      "last_date": "2026-10-25",
+      "next_expected_date": "2026-11-25"
+    }
+  ],
+  "habits": [
+    {
+      "id": "habit_01",
+      "type": "merchant_frequency",
+      "title": "Regular at Colruyt Leuven",
+      "description": "You pay at Colruyt Leuven 1.7x per week, mostly on Tuesday and Saturday, about EUR 69.26 each time (EUR 510 per month).",
+      "category": "groceries",
+      "merchant": "Colruyt Leuven",
+      "stats": {
+        "transactions": 101,
+        "visits_per_week": 1.7,
+        "average_amount": 69.26,
+        "amount_range": [
+          39.65,
+          94.84
+        ],
+        "monthly_spend": 510.1,
+        "weekday_pattern": {
+          "when": "on Tuesday and Saturday",
+          "weekdays": [
+            "Tuesday",
+            "Saturday"
+          ],
+          "share_pct": 100.0,
+          "lift": 3.53
+        }
+      }
+    },
+    {
+      "id": "habit_02",
+      "type": "merchant_frequency",
+      "title": "Regular at TotalEnergies Leuven",
+      "description": "You pay at TotalEnergies Leuven 2.4x per month, about EUR 66.56 each time (EUR 160 per month).",
+      "category": "transport",
+      "merchant": "TotalEnergies Leuven",
+      "stats": {
+        "transactions": 33,
+        "visits_per_week": 0.56,
+        "average_amount": 66.56,
+        "amount_range": [
+          54.59,
+          76.73
+        ],
+        "monthly_spend": 160.16,
+        "weekday_pattern": null
+      }
+    },
+    {
+      "id": "habit_03",
+      "type": "merchant_frequency",
+      "title": "Regular at Brasserie Den Boule",
+      "description": "You pay at Brasserie Den Boule 1.6x per month, mostly on Friday and Saturday, about EUR 48.91 each time (EUR 78 per month).",
+      "category": "dining",
+      "merchant": "Brasserie Den Boule",
+      "stats": {
+        "transactions": 22,
+        "visits_per_week": 0.37,
+        "average_amount": 48.91,
+        "amount_range": [
+          29.99,
+          76.85
+        ],
+        "monthly_spend": 78.45,
+        "weekday_pattern": {
+          "when": "on Friday and Saturday",
+          "weekdays": [
+            "Friday",
+            "Saturday"
+          ],
+          "share_pct": 72.73,
+          "lift": 2.54
+        }
+      }
+    },
+    {
+      "id": "habit_04",
+      "type": "merchant_frequency",
+      "title": "Regular at Aldi Heverlee",
+      "description": "You pay at Aldi Heverlee 1.7x per month, about EUR 27.61 each time (EUR 48 per month).",
+      "category": "groceries",
+      "merchant": "Aldi Heverlee",
+      "stats": {
+        "transactions": 24,
+        "visits_per_week": 0.4,
+        "average_amount": 27.61,
+        "amount_range": [
+          15.19,
+          43.36
+        ],
+        "monthly_spend": 48.32,
+        "weekday_pattern": null
+      }
+    },
+    {
+      "id": "habit_05",
+      "type": "merchant_frequency",
+      "title": "Regular at Bakkerij Vandermeulen",
+      "description": "You pay at Bakkerij Vandermeulen 1.4x per week, mostly on Saturday and Sunday, about EUR 8.07 each time (EUR 48 per month).",
+      "category": "groceries",
+      "merchant": "Bakkerij Vandermeulen",
+      "stats": {
+        "transactions": 82,
+        "visits_per_week": 1.38,
+        "average_amount": 8.07,
+        "amount_range": [
+          4.53,
+          11.9
+        ],
+        "monthly_spend": 48.23,
+        "weekday_pattern": {
+          "when": "on Saturday and Sunday",
+          "weekdays": [
+            "Saturday",
+            "Sunday"
+          ],
+          "share_pct": 100.0,
+          "lift": 3.53
+        }
+      }
+    },
+    {
+      "id": "habit_06",
+      "type": "weekday",
+      "title": "Dining mostly on Friday and Saturday",
+      "description": "70.09% of your dining payments happen on Friday and Saturday, 2.45x more than if they were spread evenly over the week.",
+      "category": "dining",
+      "merchant": null,
+      "stats": {
+        "when": "on Friday and Saturday",
+        "weekdays": [
+          "Friday",
+          "Saturday"
+        ],
+        "share_pct": 70.09,
+        "lift": 2.45,
+        "transactions": 117
+      }
+    },
+    {
+      "id": "habit_07",
+      "type": "weekday",
+      "title": "Groceries mostly on Tuesday and Saturday",
+      "description": "60.42% of your groceries payments happen on Tuesday and Saturday, 2.13x more than if they were spread evenly over the week.",
+      "category": "groceries",
+      "merchant": null,
+      "stats": {
+        "when": "on Tuesday and Saturday",
+        "weekdays": [
+          "Tuesday",
+          "Saturday"
+        ],
+        "share_pct": 60.42,
+        "lift": 2.13,
+        "transactions": 240
+      }
+    },
+    {
+      "id": "habit_08",
+      "type": "weekday",
+      "title": "Coffee mostly on workdays",
+      "description": "100% of your coffee payments happen on workdays, 1.4x more than if they were spread evenly over the week.",
+      "category": "coffee",
+      "merchant": null,
+      "stats": {
+        "when": "on workdays",
+        "weekdays": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "share_pct": 100.0,
+        "lift": 1.4,
+        "transactions": 112
+      }
+    },
+    {
+      "id": "habit_09",
+      "type": "seasonal_category",
+      "title": "Dining peaks in July",
+      "description": "EUR 1170 on dining in July, 19% of your yearly dining spend (3.0x a normal month).",
+      "category": "dining",
+      "merchant": null,
+      "stats": {
+        "peak_months": [
+          "2026-07"
+        ],
+        "peak_total": 1169.74,
+        "typical_month": 395.62,
+        "ratio_vs_typical": 2.96,
+        "share_of_year_pct": 18.92
+      }
+    },
+    {
+      "id": "habit_10",
+      "type": "seasonal_category",
+      "title": "Shopping peaks in December and August",
+      "description": "EUR 1800 on shopping in December and August, 46% of your yearly shopping spend (6.7x a normal month).",
+      "category": "shopping",
+      "merchant": null,
+      "stats": {
+        "peak_months": [
+          "2025-12",
+          "2026-08"
+        ],
+        "peak_total": 1799.94,
+        "typical_month": 133.97,
+        "ratio_vs_typical": 6.72,
+        "share_of_year_pct": 45.61
+      }
+    },
+    {
+      "id": "habit_11",
+      "type": "seasonal_category",
+      "title": "Travel peaks in July",
+      "description": "EUR 1563 on travel in July, 100% of your yearly travel spend.",
+      "category": "travel",
+      "merchant": null,
+      "stats": {
+        "peak_months": [
+          "2026-07"
+        ],
+        "peak_total": 1562.7,
+        "typical_month": 0.0,
+        "ratio_vs_typical": null,
+        "share_of_year_pct": 100.0
+      }
+    }
+  ],
+  "expensive_periods": [
+    {
+      "id": "period_01",
+      "kind": "holiday_season",
+      "title": "Holiday season and gifts",
+      "start": "2025-12-08",
+      "end": "2025-12-28",
+      "weeks": 3,
+      "spent": 2275.55,
+      "baseline": 1290.84,
+      "extra_spend": 984.71,
+      "ratio_vs_baseline": 1.76,
+      "top_categories": [
+        {
+          "category": "shopping",
+          "amount": 1100.94,
+          "share_pct": 48.38
+        },
+        {
+          "category": "groceries",
+          "amount": 716.3,
+          "share_pct": 31.48
+        },
+        {
+          "category": "dining",
+          "amount": 277.55,
+          "share_pct": 12.2
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "Fnac",
+          "amount": 511.17,
+          "extra_vs_usual": 479.77
+        },
+        {
+          "merchant": "Delhaize Leuven",
+          "amount": 251.27,
+          "extra_vs_usual": 218.15
+        },
+        {
+          "merchant": "MediaMarkt Leuven",
+          "amount": 265.26,
+          "extra_vs_usual": 206.49
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00140",
+        "merchant": "Delhaize Leuven",
+        "amount": 186.4,
+        "date": "2025-12-23"
+      },
+      "why": "EUR 2276 in 3 week(s) vs a usual EUR 1291 (1.8x the median of the surrounding weeks)",
+      "next_occurrence": {
+        "expected_start": "2026-12-08",
+        "days_until": 18,
+        "months_until": 1,
+        "suggested_monthly_saving": 984.71
+      }
+    },
+    {
+      "id": "period_02",
+      "kind": "one_off",
+      "title": "Large purchase at Garage Peeters",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "weeks": 1,
+      "spent": 890.25,
+      "baseline": 344.63,
+      "extra_spend": 545.62,
+      "ratio_vs_baseline": 2.58,
+      "top_categories": [
+        {
+          "category": "transport",
+          "amount": 489.34,
+          "share_pct": 54.97
+        },
+        {
+          "category": "groceries",
+          "amount": 175.22,
+          "share_pct": 19.68
+        },
+        {
+          "category": "dining",
+          "amount": 136.42,
+          "share_pct": 15.32
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "Garage Peeters",
+          "amount": 418.6,
+          "extra_vs_usual": 411.56
+        },
+        {
+          "merchant": "HEMA",
+          "amount": 84.9,
+          "extra_vs_usual": 80.84
+        },
+        {
+          "merchant": "Thai Siam",
+          "amount": 75.68,
+          "extra_vs_usual": 61.47
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00223",
+        "merchant": "Garage Peeters",
+        "amount": 418.6,
+        "date": "2026-02-10"
+      },
+      "why": "EUR 890 in 1 week(s) vs a usual EUR 345 (2.6x the median of the surrounding weeks)",
+      "next_occurrence": null
+    },
+    {
+      "id": "period_03",
+      "kind": "one_off",
+      "title": "Large purchase at MediaMarkt Leuven",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "weeks": 1,
+      "spent": 1024.17,
+      "baseline": 327.05,
+      "extra_spend": 697.12,
+      "ratio_vs_baseline": 3.13,
+      "top_categories": [
+        {
+          "category": "shopping",
+          "amount": 899.0,
+          "share_pct": 87.78
+        },
+        {
+          "category": "groceries",
+          "amount": 107.88,
+          "share_pct": 10.53
+        },
+        {
+          "category": "coffee",
+          "amount": 17.29,
+          "share_pct": 1.69
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "MediaMarkt Leuven",
+          "amount": 899.0,
+          "extra_vs_usual": 879.41
+        },
+        {
+          "merchant": "Koffie Onan",
+          "amount": 17.29,
+          "extra_vs_usual": 8.69
+        },
+        {
+          "merchant": "Bakkerij Vandermeulen",
+          "amount": 18.89,
+          "extra_vs_usual": 7.76
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00275",
+        "merchant": "MediaMarkt Leuven",
+        "amount": 899.0,
+        "date": "2026-03-14"
+      },
+      "why": "EUR 1024 in 1 week(s) vs a usual EUR 327 (3.1x the median of the surrounding weeks)",
+      "next_occurrence": null
+    },
+    {
+      "id": "period_04",
+      "kind": "spending_spike",
+      "title": "Spending spike",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "weeks": 1,
+      "spent": 468.59,
+      "baseline": 252.98,
+      "extra_spend": 215.61,
+      "ratio_vs_baseline": 1.85,
+      "top_categories": [
+        {
+          "category": "dining",
+          "amount": 223.51,
+          "share_pct": 47.7
+        },
+        {
+          "category": "groceries",
+          "amount": 169.54,
+          "share_pct": 36.18
+        },
+        {
+          "category": "transport",
+          "amount": 67.44,
+          "share_pct": 14.39
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "Brasserie Den Boule",
+          "amount": 63.68,
+          "extra_vs_usual": 45.58
+        },
+        {
+          "merchant": "Burger Bros Leuven",
+          "amount": 59.45,
+          "extra_vs_usual": 44.36
+        },
+        {
+          "merchant": "Colruyt Leuven",
+          "amount": 161.73,
+          "extra_vs_usual": 44.01
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00368",
+        "merchant": "Colruyt Leuven",
+        "amount": 91.09,
+        "date": "2026-05-05"
+      },
+      "why": "EUR 469 in 1 week(s) vs a usual EUR 253 (1.9x the median of the surrounding weeks)",
+      "next_occurrence": null
+    },
+    {
+      "id": "period_05",
+      "kind": "one_off",
+      "title": "Large purchase at Tandarts Janssens",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "weeks": 1,
+      "spent": 430.51,
+      "baseline": 252.98,
+      "extra_spend": 177.53,
+      "ratio_vs_baseline": 1.7,
+      "top_categories": [
+        {
+          "category": "health",
+          "amount": 145.0,
+          "share_pct": 33.68
+        },
+        {
+          "category": "groceries",
+          "amount": 143.03,
+          "share_pct": 33.22
+        },
+        {
+          "category": "transport",
+          "amount": 82.15,
+          "share_pct": 19.08
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "Tandarts Janssens",
+          "amount": 145.0,
+          "extra_vs_usual": 142.56
+        },
+        {
+          "merchant": "Zara Leuven",
+          "amount": 52.18,
+          "extra_vs_usual": 43.94
+        },
+        {
+          "merchant": "TotalEnergies Leuven",
+          "amount": 64.28,
+          "extra_vs_usual": 27.32
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00391",
+        "merchant": "Tandarts Janssens",
+        "amount": 145.0,
+        "date": "2026-05-19"
+      },
+      "why": "EUR 431 in 1 week(s) vs a usual EUR 253 (1.7x the median of the surrounding weeks)",
+      "next_occurrence": null
+    },
+    {
+      "id": "period_06",
+      "kind": "summer_holiday",
+      "title": "Summer holiday",
+      "start": "2026-07-06",
+      "end": "2026-07-26",
+      "weeks": 3,
+      "spent": 2956.0,
+      "baseline": 921.08,
+      "extra_spend": 2034.92,
+      "ratio_vs_baseline": 3.21,
+      "top_categories": [
+        {
+          "category": "travel",
+          "amount": 1562.7,
+          "share_pct": 52.87
+        },
+        {
+          "category": "dining",
+          "amount": 906.36,
+          "share_pct": 30.66
+        },
+        {
+          "category": "groceries",
+          "amount": 326.65,
+          "share_pct": 11.05
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "Booking.com",
+          "amount": 1020.0,
+          "extra_vs_usual": 968.51
+        },
+        {
+          "merchant": "Brussels Airlines",
+          "amount": 412.0,
+          "extra_vs_usual": 391.2
+        },
+        {
+          "merchant": "Taberna El Puerto",
+          "amount": 320.17,
+          "extra_vs_usual": 304.01
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00479",
+        "merchant": "Booking.com",
+        "amount": 540.0,
+        "date": "2026-07-11"
+      },
+      "why": "EUR 2956 in 3 week(s) vs a usual EUR 921 (3.2x the median of the surrounding weeks)",
+      "next_occurrence": {
+        "expected_start": "2027-07-06",
+        "days_until": 228,
+        "months_until": 8,
+        "suggested_monthly_saving": 254.37
+      }
+    },
+    {
+      "id": "period_07",
+      "kind": "back_to_school",
+      "title": "Back to school",
+      "start": "2026-08-24",
+      "end": "2026-09-06",
+      "weeks": 2,
+      "spent": 1434.75,
+      "baseline": 670.2,
+      "extra_spend": 764.55,
+      "ratio_vs_baseline": 2.14,
+      "top_categories": [
+        {
+          "category": "shopping",
+          "amount": 413.36,
+          "share_pct": 28.81
+        },
+        {
+          "category": "education",
+          "amount": 331.4,
+          "share_pct": 23.1
+        },
+        {
+          "category": "groceries",
+          "amount": 316.6,
+          "share_pct": 22.07
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "Basisschool De Regenboog",
+          "amount": 245.0,
+          "extra_vs_usual": 236.75
+        },
+        {
+          "merchant": "Decathlon Leuven",
+          "amount": 134.5,
+          "extra_vs_usual": 129.97
+        },
+        {
+          "merchant": "JBC Leuven",
+          "amount": 118.7,
+          "extra_vs_usual": 114.71
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00566",
+        "merchant": "Basisschool De Regenboog",
+        "amount": 245.0,
+        "date": "2026-09-02"
+      },
+      "why": "EUR 1435 in 2 week(s) vs a usual EUR 670 (2.1x the median of the surrounding weeks)",
+      "next_occurrence": {
+        "expected_start": "2027-08-24",
+        "days_until": 277,
+        "months_until": 9,
+        "suggested_monthly_saving": 84.95
+      }
+    },
+    {
+      "id": "period_08",
+      "kind": "spending_spike",
+      "title": "Spending spike",
+      "start": "2026-09-21",
+      "end": "2026-10-04",
+      "weeks": 2,
+      "spent": 1146.29,
+      "baseline": 670.2,
+      "extra_spend": 476.09,
+      "ratio_vs_baseline": 1.71,
+      "top_categories": [
+        {
+          "category": "groceries",
+          "amount": 414.76,
+          "share_pct": 36.18
+        },
+        {
+          "category": "dining",
+          "amount": 366.53,
+          "share_pct": 31.98
+        },
+        {
+          "category": "shopping",
+          "amount": 272.44,
+          "share_pct": 23.77
+        }
+      ],
+      "top_merchants": [
+        {
+          "merchant": "Zara Leuven",
+          "amount": 148.37,
+          "extra_vs_usual": 131.9
+        },
+        {
+          "merchant": "Sushi Kyoto Leuven",
+          "amount": 120.68,
+          "extra_vs_usual": 94.85
+        },
+        {
+          "merchant": "Kruidvat",
+          "amount": 79.25,
+          "extra_vs_usual": 68.68
+        }
+      ],
+      "largest_transaction": {
+        "id": "tx_00619",
+        "merchant": "Colruyt Leuven",
+        "amount": 92.98,
+        "date": "2026-09-29"
+      },
+      "why": "EUR 1146 in 2 week(s) vs a usual EUR 670 (1.7x the median of the surrounding weeks)",
+      "next_occurrence": null
+    }
+  ],
+  "monthly_spend": [
+    {
+      "month": "2025-10",
+      "complete": true,
+      "total": 2502.33,
+      "recurring": 1474.34,
+      "discretionary": 1027.99,
+      "income": 3420.0
+    },
+    {
+      "month": "2025-11",
+      "complete": true,
+      "total": 2875.26,
+      "recurring": 1329.75,
+      "discretionary": 1545.51,
+      "income": 3420.0
+    },
+    {
+      "month": "2025-12",
+      "complete": true,
+      "total": 4396.15,
+      "recurring": 1257.95,
+      "discretionary": 3138.2,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-01",
+      "complete": true,
+      "total": 2897.01,
+      "recurring": 1444.35,
+      "discretionary": 1452.66,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-02",
+      "complete": true,
+      "total": 3230.44,
+      "recurring": 1331.25,
+      "discretionary": 1899.19,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-03",
+      "complete": true,
+      "total": 3457.96,
+      "recurring": 1259.45,
+      "discretionary": 2198.51,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-04",
+      "complete": true,
+      "total": 2704.44,
+      "recurring": 1436.86,
+      "discretionary": 1267.58,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-05",
+      "complete": true,
+      "total": 2815.95,
+      "recurring": 1322.26,
+      "discretionary": 1493.69,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-06",
+      "complete": true,
+      "total": 2341.78,
+      "recurring": 1250.46,
+      "discretionary": 1091.32,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-07",
+      "complete": true,
+      "total": 4824.42,
+      "recurring": 1436.86,
+      "discretionary": 3387.56,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-08",
+      "complete": true,
+      "total": 2978.8,
+      "recurring": 1345.25,
+      "discretionary": 1633.55,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-09",
+      "complete": true,
+      "total": 3366.31,
+      "recurring": 1274.45,
+      "discretionary": 2091.86,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-10",
+      "complete": true,
+      "total": 2937.45,
+      "recurring": 1490.84,
+      "discretionary": 1446.61,
+      "income": 3420.0
+    },
+    {
+      "month": "2026-11",
+      "complete": false,
+      "total": 2499.94,
+      "recurring": 1316.26,
+      "discretionary": 1183.68,
+      "income": 0.0
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-30T19:06:33+00:00",
+    "transactions_analyzed": 719,
+    "currency": "EUR",
+    "amounts": "positive euros spent (income positive in monthly_spend.income)",
+    "method": {
+      "subscriptions": "Group spend by normalized merchant; accept when the gaps between charges match a known cadence (weekly to yearly) and the amount is stable between consecutive charges.",
+      "habits": "On non-recurring spend: weekday concentration vs an even spread, frequent merchants, category months at 2x a normal month, and daily spend after payday vs other days.",
+      "expensive_periods": "Weekly non-recurring spend vs the median of the 4 weeks before and after; weeks at 1.7x and EUR 150 above baseline are flagged and merged.",
+      "forecast": "Month so far vs the median of earlier months up to the same day; end of month = spent so far + scheduled recurring charges + typical discretionary spend for the remaining days.",
+      "changes": "Recurring charges that started in the last 120 days, recent price changes and cancellations, and categories whose last 8 weeks differ at least 30% from the long-run monthly average."
+    }
+  }
+}
