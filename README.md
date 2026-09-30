@@ -1,4 +1,26 @@
-# KBC expense pattern engine (hackathon)
+# Tectonic KBC
+
+KBC-inspired banking prototype with dummy accounts, transactions, payments, cards and insurance. Kate answers questions through OpenRouter using `qwen/qwen3.5-9b`; she cannot perform actions.
+
+## Run locally
+
+Requires Node.js 22+. No dependencies to install.
+
+```sh
+cp .env.example .env
+# Set OPENROUTER_KEY in .env
+npm start
+```
+
+Open [localhost:4173](http://localhost:4173). The API key stays server-side; `.env` is ignored by Git. Optional settings: `OPENROUTER_MODEL` and `PORT`.
+
+`npm run dev` enables server restarts. `npm test` runs backend tests without calling OpenRouter.
+
+UI and dummy data: `public/`. Local backend: `server.js`. Project notes: `docs/`. Demo changes reset on reload.
+
+Independent mockup, inspired by [KBC Touch](https://www.kbc.be/retail/en/products/payments/self-banking/on-your-pc/what-is-touch.html). All banking data is fictional.
+
+## Expense pattern engine
 
 Learns a customer's spending patterns from their transaction history, then predicts from "today":
 
@@ -11,7 +33,7 @@ Learns a customer's spending patterns from their transaction history, then predi
 
 Everything is explainable rules and statistics (no model training), so every insight comes with a `why` or `message`.
 
-## Run it
+### Run it
 
 Python 3.10+ only, no packages to install.
 
@@ -26,7 +48,7 @@ python src/run.py                  # writes output/insights.json and prints a su
 python src/run.py --as-of 2026-06-15 data/expenses.json output/insights_june.json
 ```
 
-## Demo data
+### Demo data
 
 The demo data is seeded, so it's identical every run. It runs from **1 October 2025 to 20 November 2026**. The last day is the demo "today", 18 days before the December gift period starts.
 
@@ -37,7 +59,7 @@ The persona is Lotte, 34, from Leuven, who has one child. Her data includes:
 - **Expensive periods**: Christmas gifts (December 2025), a July holiday in Spain, and back to school. There are also one-offs: a car repair, a laptop and the dentist.
 - **Changes in the second year** that the engine should notice: ChatGPT Plus starts in August 2026, Spotify goes from €11.99 to €12.99 in September 2026, and she eats out more often from mid-September 2026.
 
-## Input format
+### Input format
 
 A JSON array of transactions. Spend is negative, income is positive:
 
@@ -48,7 +70,7 @@ A JSON array of transactions. Spend is negative, income is positive:
 
 `channel` is one of `card`, `direct_debit`, `standing_order`, or `transfer`. Income transactions should use category `income`, because the payday habit relies on it.
 
-## Output: `output/insights.json`
+### Output: `output/insights.json`
 
 All amounts are **positive euros**.
 
@@ -66,7 +88,7 @@ All amounts are **positive euros**.
 | `monthly_spend[]` | per month: `total`, `recurring`, `discretionary`, `income`, `complete` (false for the current month) |
 | `meta` | generation time and a short description of each method |
 
-### `feed[]` card types
+#### `feed[]` card types
 
 - `upcoming_expensive_period`: "Coming up: holiday season and gifts".
 - `month_pace`: shown only when this month is more than 10% above or below normal.
@@ -75,18 +97,18 @@ All amounts are **positive euros**.
 - `price_change`
 - `month_forecast`
 
-### `forecast`
+#### `forecast`
 
 - `month_to_date`: `spent`, `typical_by_today`, `difference`, `difference_pct`, `status` (`above`, `on_track` or `below`), `income`, `message`.
 - `end_of_month`: `projected_spend`, `typical_month_spend`, `remaining_recurring[]`, `remaining_discretionary_estimate`, `remaining_income[]`, `projected_income`, `projected_net`, `message`.
 - `daily[]`: one point per day of the month, `{day, date, actual, typical, projected}`. `actual` is `null` after today and `projected` is `null` before today, so you can draw three lines on one chart.
 - `upcoming_periods[]`: `title`, `expected_start`, `days_until`, `alert` (true within 45 days), `last_time` (what it cost and which merchants drove it), `suggested_weekly_saving`, `message`.
 
-### `subscriptions[]`
+#### `subscriptions[]`
 
 `merchant`, `category`, `kind` (`subscription` or `recurring_bill`), `status` (`active` or `cancelled`), `cadence` (`weekly`, `biweekly`, `four_weekly`, `monthly`, `quarterly`, `yearly`), `amount` (current price), `monthly_cost`, `yearly_cost`, `charges`, `total_paid`, `first_charge`, `last_charge`, `next_expected_date`, `price_change` (`null` or `{from, to, date, change_pct}`), `confidence` (0 to 1), `why`, `transaction_ids`.
 
-### `habits[]`
+#### `habits[]`
 
 `id`, `type`, `title`, `description`, `category`, `merchant`, `stats`. The `type` values are:
 
@@ -95,13 +117,13 @@ All amounts are **positive euros**.
 - `seasonal_category`: "Shopping peaks in December". The `stats` include the peak months, the typical month, and the ratio between them.
 - `payday`: "You spend more right after payday". The `stats` include the average daily spend after payday compared with other days.
 
-### `expensive_periods[]`
+#### `expensive_periods[]`
 
 `id`, `kind`, `title`, `start`, `end`, `weeks`, `spent`, `baseline`, `extra_spend`, `ratio_vs_baseline`, `top_categories`, `top_merchants` (sorted by extra spend compared with that merchant's normal), `largest_transaction`, `why`, `next_occurrence`.
 
 `kind` is one of `holiday_season`, `summer_holiday`, `back_to_school`, `one_off`, or `spending_spike`. For the three yearly kinds, `next_occurrence` is `{expected_start, days_until, months_until, suggested_monthly_saving}`. For the others it is `null`.
 
-## How the algorithm works
+### How the algorithm works
 
 All code lives in [`src/detect.py`](src/detect.py). Thresholds are constants at the top of the file.
 
